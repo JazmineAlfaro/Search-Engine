@@ -1,0 +1,1238 @@
+     1	TheYellowWallpaperbyCharlotteGilman.txt\t﻿Project Gutenberg's The Yellow Wallpaper, by Charlotte Perkins Gilman
+     2	TheYellowWallpaperbyCharlotteGilman.txt\t
+     3	TheYellowWallpaperbyCharlotteGilman.txt\tThis eBook is for the use of anyone anywhere at no cost and with
+     4	TheYellowWallpaperbyCharlotteGilman.txt\talmost no restrictions whatsoever.  You may copy it, give it away or
+     5	TheYellowWallpaperbyCharlotteGilman.txt\tre-use it under the terms of the Project Gutenberg License included
+     6	TheYellowWallpaperbyCharlotteGilman.txt\twith this eBook or online at www.gutenberg.org
+     7	TheYellowWallpaperbyCharlotteGilman.txt\t
+     8	TheYellowWallpaperbyCharlotteGilman.txt\t
+     9	TheYellowWallpaperbyCharlotteGilman.txt\tTitle: The Yellow Wallpaper
+    10	TheYellowWallpaperbyCharlotteGilman.txt\t
+    11	TheYellowWallpaperbyCharlotteGilman.txt\tAuthor: Charlotte Perkins Gilman
+    12	TheYellowWallpaperbyCharlotteGilman.txt\t
+    13	TheYellowWallpaperbyCharlotteGilman.txt\tPosting Date: November 25, 2008 [EBook #1952]
+    14	TheYellowWallpaperbyCharlotteGilman.txt\tRelease Date: November, 1999
+    15	TheYellowWallpaperbyCharlotteGilman.txt\tLast Corrected: January 31, 2011
+    16	TheYellowWallpaperbyCharlotteGilman.txt\t
+    17	TheYellowWallpaperbyCharlotteGilman.txt\tLanguage: English
+    18	TheYellowWallpaperbyCharlotteGilman.txt\t
+    19	TheYellowWallpaperbyCharlotteGilman.txt\t
+    20	TheYellowWallpaperbyCharlotteGilman.txt\t*** START OF THIS PROJECT GUTENBERG EBOOK THE YELLOW WALLPAPER ***
+    21	TheYellowWallpaperbyCharlotteGilman.txt\t
+    22	TheYellowWallpaperbyCharlotteGilman.txt\t
+    23	TheYellowWallpaperbyCharlotteGilman.txt\t
+    24	TheYellowWallpaperbyCharlotteGilman.txt\t
+    25	TheYellowWallpaperbyCharlotteGilman.txt\tProduced by An Anonymous Volunteer
+    26	TheYellowWallpaperbyCharlotteGilman.txt\t
+    27	TheYellowWallpaperbyCharlotteGilman.txt\t
+    28	TheYellowWallpaperbyCharlotteGilman.txt\t
+    29	TheYellowWallpaperbyCharlotteGilman.txt\t
+    30	TheYellowWallpaperbyCharlotteGilman.txt\t
+    31	TheYellowWallpaperbyCharlotteGilman.txt\tTHE YELLOW WALLPAPER
+    32	TheYellowWallpaperbyCharlotteGilman.txt\t
+    33	TheYellowWallpaperbyCharlotteGilman.txt\tBy Charlotte Perkins Gilman
+    34	TheYellowWallpaperbyCharlotteGilman.txt\t
+    35	TheYellowWallpaperbyCharlotteGilman.txt\t
+    36	TheYellowWallpaperbyCharlotteGilman.txt\t
+    37	TheYellowWallpaperbyCharlotteGilman.txt\t
+    38	TheYellowWallpaperbyCharlotteGilman.txt\tIt is very seldom that mere ordinary people like John and myself secure
+    39	TheYellowWallpaperbyCharlotteGilman.txt\tancestral halls for the summer.
+    40	TheYellowWallpaperbyCharlotteGilman.txt\t
+    41	TheYellowWallpaperbyCharlotteGilman.txt\tA colonial mansion, a hereditary estate, I would say a haunted house,
+    42	TheYellowWallpaperbyCharlotteGilman.txt\tand reach the height of romantic felicity--but that would be asking too
+    43	TheYellowWallpaperbyCharlotteGilman.txt\tmuch of fate!
+    44	TheYellowWallpaperbyCharlotteGilman.txt\t
+    45	TheYellowWallpaperbyCharlotteGilman.txt\tStill I will proudly declare that there is something queer about it.
+    46	TheYellowWallpaperbyCharlotteGilman.txt\t
+    47	TheYellowWallpaperbyCharlotteGilman.txt\tElse, why should it be let so cheaply? And why have stood so long
+    48	TheYellowWallpaperbyCharlotteGilman.txt\tuntenanted?
+    49	TheYellowWallpaperbyCharlotteGilman.txt\t
+    50	TheYellowWallpaperbyCharlotteGilman.txt\tJohn laughs at me, of course, but one expects that in marriage.
+    51	TheYellowWallpaperbyCharlotteGilman.txt\t
+    52	TheYellowWallpaperbyCharlotteGilman.txt\tJohn is practical in the extreme. He has no patience with faith, an
+    53	TheYellowWallpaperbyCharlotteGilman.txt\tintense horror of superstition, and he scoffs openly at any talk of
+    54	TheYellowWallpaperbyCharlotteGilman.txt\tthings not to be felt and seen and put down in figures.
+    55	TheYellowWallpaperbyCharlotteGilman.txt\t
+    56	TheYellowWallpaperbyCharlotteGilman.txt\tJohn is a physician, and PERHAPS--(I would not say it to a living
+    57	TheYellowWallpaperbyCharlotteGilman.txt\tsoul, of course, but this is dead paper and a great relief to my
+    58	TheYellowWallpaperbyCharlotteGilman.txt\tmind)--PERHAPS that is one reason I do not get well faster.
+    59	TheYellowWallpaperbyCharlotteGilman.txt\t
+    60	TheYellowWallpaperbyCharlotteGilman.txt\tYou see he does not believe I am sick!
+    61	TheYellowWallpaperbyCharlotteGilman.txt\t
+    62	TheYellowWallpaperbyCharlotteGilman.txt\tAnd what can one do?
+    63	TheYellowWallpaperbyCharlotteGilman.txt\t
+    64	TheYellowWallpaperbyCharlotteGilman.txt\tIf a physician of high standing, and one's own husband, assures friends
+    65	TheYellowWallpaperbyCharlotteGilman.txt\tand relatives that there is really nothing the matter with one but
+    66	TheYellowWallpaperbyCharlotteGilman.txt\ttemporary nervous depression--a slight hysterical tendency--what is one
+    67	TheYellowWallpaperbyCharlotteGilman.txt\tto do?
+    68	TheYellowWallpaperbyCharlotteGilman.txt\t
+    69	TheYellowWallpaperbyCharlotteGilman.txt\tMy brother is also a physician, and also of high standing, and he says
+    70	TheYellowWallpaperbyCharlotteGilman.txt\tthe same thing.
+    71	TheYellowWallpaperbyCharlotteGilman.txt\t
+    72	TheYellowWallpaperbyCharlotteGilman.txt\tSo I take phosphates or phosphites--whichever it is, and tonics, and
+    73	TheYellowWallpaperbyCharlotteGilman.txt\tjourneys, and air, and exercise, and am absolutely forbidden to "work"
+    74	TheYellowWallpaperbyCharlotteGilman.txt\tuntil I am well again.
+    75	TheYellowWallpaperbyCharlotteGilman.txt\t
+    76	TheYellowWallpaperbyCharlotteGilman.txt\tPersonally, I disagree with their ideas.
+    77	TheYellowWallpaperbyCharlotteGilman.txt\t
+    78	TheYellowWallpaperbyCharlotteGilman.txt\tPersonally, I believe that congenial work, with excitement and change,
+    79	TheYellowWallpaperbyCharlotteGilman.txt\twould do me good.
+    80	TheYellowWallpaperbyCharlotteGilman.txt\t
+    81	TheYellowWallpaperbyCharlotteGilman.txt\tBut what is one to do?
+    82	TheYellowWallpaperbyCharlotteGilman.txt\t
+    83	TheYellowWallpaperbyCharlotteGilman.txt\tI did write for a while in spite of them; but it DOES exhaust me a good
+    84	TheYellowWallpaperbyCharlotteGilman.txt\tdeal--having to be so sly about it, or else meet with heavy opposition.
+    85	TheYellowWallpaperbyCharlotteGilman.txt\t
+    86	TheYellowWallpaperbyCharlotteGilman.txt\tI sometimes fancy that in my condition if I had less opposition and more
+    87	TheYellowWallpaperbyCharlotteGilman.txt\tsociety and stimulus--but John says the very worst thing I can do is to
+    88	TheYellowWallpaperbyCharlotteGilman.txt\tthink about my condition, and I confess it always makes me feel bad.
+    89	TheYellowWallpaperbyCharlotteGilman.txt\t
+    90	TheYellowWallpaperbyCharlotteGilman.txt\tSo I will let it alone and talk about the house.
+    91	TheYellowWallpaperbyCharlotteGilman.txt\t
+    92	TheYellowWallpaperbyCharlotteGilman.txt\tThe most beautiful place! It is quite alone, standing well back from the
+    93	TheYellowWallpaperbyCharlotteGilman.txt\troad, quite three miles from the village. It makes me think of English
+    94	TheYellowWallpaperbyCharlotteGilman.txt\tplaces that you read about, for there are hedges and walls and gates
+    95	TheYellowWallpaperbyCharlotteGilman.txt\tthat lock, and lots of separate little houses for the gardeners and
+    96	TheYellowWallpaperbyCharlotteGilman.txt\tpeople.
+    97	TheYellowWallpaperbyCharlotteGilman.txt\t
+    98	TheYellowWallpaperbyCharlotteGilman.txt\tThere is a DELICIOUS garden! I never saw such a garden--large and shady,
+    99	TheYellowWallpaperbyCharlotteGilman.txt\tfull of box-bordered paths, and lined with long grape-covered arbors
+   100	TheYellowWallpaperbyCharlotteGilman.txt\twith seats under them.
+   101	TheYellowWallpaperbyCharlotteGilman.txt\t
+   102	TheYellowWallpaperbyCharlotteGilman.txt\tThere were greenhouses, too, but they are all broken now.
+   103	TheYellowWallpaperbyCharlotteGilman.txt\t
+   104	TheYellowWallpaperbyCharlotteGilman.txt\tThere was some legal trouble, I believe, something about the heirs and
+   105	TheYellowWallpaperbyCharlotteGilman.txt\tcoheirs; anyhow, the place has been empty for years.
+   106	TheYellowWallpaperbyCharlotteGilman.txt\t
+   107	TheYellowWallpaperbyCharlotteGilman.txt\tThat spoils my ghostliness, I am afraid, but I don't care--there is
+   108	TheYellowWallpaperbyCharlotteGilman.txt\tsomething strange about the house--I can feel it.
+   109	TheYellowWallpaperbyCharlotteGilman.txt\t
+   110	TheYellowWallpaperbyCharlotteGilman.txt\tI even said so to John one moonlight evening, but he said what I felt
+   111	TheYellowWallpaperbyCharlotteGilman.txt\twas a DRAUGHT, and shut the window.
+   112	TheYellowWallpaperbyCharlotteGilman.txt\t
+   113	TheYellowWallpaperbyCharlotteGilman.txt\tI get unreasonably angry with John sometimes. I'm sure I never used to
+   114	TheYellowWallpaperbyCharlotteGilman.txt\tbe so sensitive. I think it is due to this nervous condition.
+   115	TheYellowWallpaperbyCharlotteGilman.txt\t
+   116	TheYellowWallpaperbyCharlotteGilman.txt\tBut John says if I feel so, I shall neglect proper self-control; so I
+   117	TheYellowWallpaperbyCharlotteGilman.txt\ttake pains to control myself--before him, at least, and that makes me
+   118	TheYellowWallpaperbyCharlotteGilman.txt\tvery tired.
+   119	TheYellowWallpaperbyCharlotteGilman.txt\t
+   120	TheYellowWallpaperbyCharlotteGilman.txt\tI don't like our room a bit. I wanted one downstairs that opened on the
+   121	TheYellowWallpaperbyCharlotteGilman.txt\tpiazza and had roses all over the window, and such pretty old-fashioned
+   122	TheYellowWallpaperbyCharlotteGilman.txt\tchintz hangings! but John would not hear of it.
+   123	TheYellowWallpaperbyCharlotteGilman.txt\t
+   124	TheYellowWallpaperbyCharlotteGilman.txt\tHe said there was only one window and not room for two beds, and no near
+   125	TheYellowWallpaperbyCharlotteGilman.txt\troom for him if he took another.
+   126	TheYellowWallpaperbyCharlotteGilman.txt\t
+   127	TheYellowWallpaperbyCharlotteGilman.txt\tHe is very careful and loving, and hardly lets me stir without special
+   128	TheYellowWallpaperbyCharlotteGilman.txt\tdirection.
+   129	TheYellowWallpaperbyCharlotteGilman.txt\t
+   130	TheYellowWallpaperbyCharlotteGilman.txt\tI have a schedule prescription for each hour in the day; he takes all
+   131	TheYellowWallpaperbyCharlotteGilman.txt\tcare from me, and so I feel basely ungrateful not to value it more.
+   132	TheYellowWallpaperbyCharlotteGilman.txt\t
+   133	TheYellowWallpaperbyCharlotteGilman.txt\tHe said we came here solely on my account, that I was to have perfect
+   134	TheYellowWallpaperbyCharlotteGilman.txt\trest and all the air I could get. "Your exercise depends on your
+   135	TheYellowWallpaperbyCharlotteGilman.txt\tstrength, my dear," said he, "and your food somewhat on your appetite;
+   136	TheYellowWallpaperbyCharlotteGilman.txt\tbut air you can absorb all the time." So we took the nursery at the top
+   137	TheYellowWallpaperbyCharlotteGilman.txt\tof the house.
+   138	TheYellowWallpaperbyCharlotteGilman.txt\t
+   139	TheYellowWallpaperbyCharlotteGilman.txt\tIt is a big, airy room, the whole floor nearly, with windows that look
+   140	TheYellowWallpaperbyCharlotteGilman.txt\tall ways, and air and sunshine galore. It was nursery first and then
+   141	TheYellowWallpaperbyCharlotteGilman.txt\tplayroom and gymnasium, I should judge; for the windows are barred for
+   142	TheYellowWallpaperbyCharlotteGilman.txt\tlittle children, and there are rings and things in the walls.
+   143	TheYellowWallpaperbyCharlotteGilman.txt\t
+   144	TheYellowWallpaperbyCharlotteGilman.txt\tThe paint and paper look as if a boys' school had used it. It is
+   145	TheYellowWallpaperbyCharlotteGilman.txt\tstripped off--the paper--in great patches all around the head of my bed,
+   146	TheYellowWallpaperbyCharlotteGilman.txt\tabout as far as I can reach, and in a great place on the other side of
+   147	TheYellowWallpaperbyCharlotteGilman.txt\tthe room low down. I never saw a worse paper in my life.
+   148	TheYellowWallpaperbyCharlotteGilman.txt\t
+   149	TheYellowWallpaperbyCharlotteGilman.txt\tOne of those sprawling flamboyant patterns committing every artistic
+   150	TheYellowWallpaperbyCharlotteGilman.txt\tsin.
+   151	TheYellowWallpaperbyCharlotteGilman.txt\t
+   152	TheYellowWallpaperbyCharlotteGilman.txt\tIt is dull enough to confuse the eye in following, pronounced enough
+   153	TheYellowWallpaperbyCharlotteGilman.txt\tto constantly irritate and provoke study, and when you follow the
+   154	TheYellowWallpaperbyCharlotteGilman.txt\tlame uncertain curves for a little distance they suddenly commit
+   155	TheYellowWallpaperbyCharlotteGilman.txt\tsuicide--plunge off at outrageous angles, destroy themselves in unheard
+   156	TheYellowWallpaperbyCharlotteGilman.txt\tof contradictions.
+   157	TheYellowWallpaperbyCharlotteGilman.txt\t
+   158	TheYellowWallpaperbyCharlotteGilman.txt\tThe color is repellent, almost revolting; a smouldering unclean yellow,
+   159	TheYellowWallpaperbyCharlotteGilman.txt\tstrangely faded by the slow-turning sunlight.
+   160	TheYellowWallpaperbyCharlotteGilman.txt\t
+   161	TheYellowWallpaperbyCharlotteGilman.txt\tIt is a dull yet lurid orange in some places, a sickly sulphur tint in
+   162	TheYellowWallpaperbyCharlotteGilman.txt\tothers.
+   163	TheYellowWallpaperbyCharlotteGilman.txt\t
+   164	TheYellowWallpaperbyCharlotteGilman.txt\tNo wonder the children hated it! I should hate it myself if I had to
+   165	TheYellowWallpaperbyCharlotteGilman.txt\tlive in this room long.
+   166	TheYellowWallpaperbyCharlotteGilman.txt\t
+   167	TheYellowWallpaperbyCharlotteGilman.txt\tThere comes John, and I must put this away,--he hates to have me write a
+   168	TheYellowWallpaperbyCharlotteGilman.txt\tword.
+   169	TheYellowWallpaperbyCharlotteGilman.txt\t
+   170	TheYellowWallpaperbyCharlotteGilman.txt\t
+   171	TheYellowWallpaperbyCharlotteGilman.txt\tWe have been here two weeks, and I haven't felt like writing before,
+   172	TheYellowWallpaperbyCharlotteGilman.txt\tsince that first day.
+   173	TheYellowWallpaperbyCharlotteGilman.txt\t
+   174	TheYellowWallpaperbyCharlotteGilman.txt\tI am sitting by the window now, up in this atrocious nursery, and
+   175	TheYellowWallpaperbyCharlotteGilman.txt\tthere is nothing to hinder my writing as much as I please, save lack of
+   176	TheYellowWallpaperbyCharlotteGilman.txt\tstrength.
+   177	TheYellowWallpaperbyCharlotteGilman.txt\t
+   178	TheYellowWallpaperbyCharlotteGilman.txt\tJohn is away all day, and even some nights when his cases are serious.
+   179	TheYellowWallpaperbyCharlotteGilman.txt\t
+   180	TheYellowWallpaperbyCharlotteGilman.txt\tI am glad my case is not serious!
+   181	TheYellowWallpaperbyCharlotteGilman.txt\t
+   182	TheYellowWallpaperbyCharlotteGilman.txt\tBut these nervous troubles are dreadfully depressing.
+   183	TheYellowWallpaperbyCharlotteGilman.txt\t
+   184	TheYellowWallpaperbyCharlotteGilman.txt\tJohn does not know how much I really suffer. He knows there is no REASON
+   185	TheYellowWallpaperbyCharlotteGilman.txt\tto suffer, and that satisfies him.
+   186	TheYellowWallpaperbyCharlotteGilman.txt\t
+   187	TheYellowWallpaperbyCharlotteGilman.txt\tOf course it is only nervousness. It does weigh on me so not to do my
+   188	TheYellowWallpaperbyCharlotteGilman.txt\tduty in any way!
+   189	TheYellowWallpaperbyCharlotteGilman.txt\t
+   190	TheYellowWallpaperbyCharlotteGilman.txt\tI meant to be such a help to John, such a real rest and comfort, and
+   191	TheYellowWallpaperbyCharlotteGilman.txt\there I am a comparative burden already!
+   192	TheYellowWallpaperbyCharlotteGilman.txt\t
+   193	TheYellowWallpaperbyCharlotteGilman.txt\tNobody would believe what an effort it is to do what little I am
+   194	TheYellowWallpaperbyCharlotteGilman.txt\table,--to dress and entertain, and order things.
+   195	TheYellowWallpaperbyCharlotteGilman.txt\t
+   196	TheYellowWallpaperbyCharlotteGilman.txt\tIt is fortunate Mary is so good with the baby. Such a dear baby!
+   197	TheYellowWallpaperbyCharlotteGilman.txt\t
+   198	TheYellowWallpaperbyCharlotteGilman.txt\tAnd yet I CANNOT be with him, it makes me so nervous.
+   199	TheYellowWallpaperbyCharlotteGilman.txt\t
+   200	TheYellowWallpaperbyCharlotteGilman.txt\tI suppose John never was nervous in his life. He laughs at me so about
+   201	TheYellowWallpaperbyCharlotteGilman.txt\tthis wall-paper!
+   202	TheYellowWallpaperbyCharlotteGilman.txt\t
+   203	TheYellowWallpaperbyCharlotteGilman.txt\tAt first he meant to repaper the room, but afterwards he said that I
+   204	TheYellowWallpaperbyCharlotteGilman.txt\twas letting it get the better of me, and that nothing was worse for a
+   205	TheYellowWallpaperbyCharlotteGilman.txt\tnervous patient than to give way to such fancies.
+   206	TheYellowWallpaperbyCharlotteGilman.txt\t
+   207	TheYellowWallpaperbyCharlotteGilman.txt\tHe said that after the wall-paper was changed it would be the heavy
+   208	TheYellowWallpaperbyCharlotteGilman.txt\tbedstead, and then the barred windows, and then that gate at the head of
+   209	TheYellowWallpaperbyCharlotteGilman.txt\tthe stairs, and so on.
+   210	TheYellowWallpaperbyCharlotteGilman.txt\t
+   211	TheYellowWallpaperbyCharlotteGilman.txt\t"You know the place is doing you good," he said, "and really, dear, I
+   212	TheYellowWallpaperbyCharlotteGilman.txt\tdon't care to renovate the house just for a three months' rental."
+   213	TheYellowWallpaperbyCharlotteGilman.txt\t
+   214	TheYellowWallpaperbyCharlotteGilman.txt\t"Then do let us go downstairs," I said, "there are such pretty rooms
+   215	TheYellowWallpaperbyCharlotteGilman.txt\tthere."
+   216	TheYellowWallpaperbyCharlotteGilman.txt\t
+   217	TheYellowWallpaperbyCharlotteGilman.txt\tThen he took me in his arms and called me a blessed little goose,
+   218	TheYellowWallpaperbyCharlotteGilman.txt\tand said he would go down to the cellar, if I wished, and have it
+   219	TheYellowWallpaperbyCharlotteGilman.txt\twhitewashed into the bargain.
+   220	TheYellowWallpaperbyCharlotteGilman.txt\t
+   221	TheYellowWallpaperbyCharlotteGilman.txt\tBut he is right enough about the beds and windows and things.
+   222	TheYellowWallpaperbyCharlotteGilman.txt\t
+   223	TheYellowWallpaperbyCharlotteGilman.txt\tIt is an airy and comfortable room as any one need wish, and, of course,
+   224	TheYellowWallpaperbyCharlotteGilman.txt\tI would not be so silly as to make him uncomfortable just for a whim.
+   225	TheYellowWallpaperbyCharlotteGilman.txt\t
+   226	TheYellowWallpaperbyCharlotteGilman.txt\tI'm really getting quite fond of the big room, all but that horrid
+   227	TheYellowWallpaperbyCharlotteGilman.txt\tpaper.
+   228	TheYellowWallpaperbyCharlotteGilman.txt\t
+   229	TheYellowWallpaperbyCharlotteGilman.txt\tOut of one window I can see the garden, those mysterious deepshaded
+   230	TheYellowWallpaperbyCharlotteGilman.txt\tarbors, the riotous old-fashioned flowers, and bushes and gnarly trees.
+   231	TheYellowWallpaperbyCharlotteGilman.txt\t
+   232	TheYellowWallpaperbyCharlotteGilman.txt\tOut of another I get a lovely view of the bay and a little private wharf
+   233	TheYellowWallpaperbyCharlotteGilman.txt\tbelonging to the estate. There is a beautiful shaded lane that runs
+   234	TheYellowWallpaperbyCharlotteGilman.txt\tdown there from the house. I always fancy I see people walking in these
+   235	TheYellowWallpaperbyCharlotteGilman.txt\tnumerous paths and arbors, but John has cautioned me not to give way to
+   236	TheYellowWallpaperbyCharlotteGilman.txt\tfancy in the least. He says that with my imaginative power and habit of
+   237	TheYellowWallpaperbyCharlotteGilman.txt\tstory-making, a nervous weakness like mine is sure to lead to all manner
+   238	TheYellowWallpaperbyCharlotteGilman.txt\tof excited fancies, and that I ought to use my will and good sense to
+   239	TheYellowWallpaperbyCharlotteGilman.txt\tcheck the tendency. So I try.
+   240	TheYellowWallpaperbyCharlotteGilman.txt\t
+   241	TheYellowWallpaperbyCharlotteGilman.txt\tI think sometimes that if I were only well enough to write a little it
+   242	TheYellowWallpaperbyCharlotteGilman.txt\twould relieve the press of ideas and rest me.
+   243	TheYellowWallpaperbyCharlotteGilman.txt\t
+   244	TheYellowWallpaperbyCharlotteGilman.txt\tBut I find I get pretty tired when I try.
+   245	TheYellowWallpaperbyCharlotteGilman.txt\t
+   246	TheYellowWallpaperbyCharlotteGilman.txt\tIt is so discouraging not to have any advice and companionship about
+   247	TheYellowWallpaperbyCharlotteGilman.txt\tmy work. When I get really well, John says we will ask Cousin Henry and
+   248	TheYellowWallpaperbyCharlotteGilman.txt\tJulia down for a long visit; but he says he would as soon put fireworks
+   249	TheYellowWallpaperbyCharlotteGilman.txt\tin my pillow-case as to let me have those stimulating people about now.
+   250	TheYellowWallpaperbyCharlotteGilman.txt\t
+   251	TheYellowWallpaperbyCharlotteGilman.txt\tI wish I could get well faster.
+   252	TheYellowWallpaperbyCharlotteGilman.txt\t
+   253	TheYellowWallpaperbyCharlotteGilman.txt\tBut I must not think about that. This paper looks to me as if it KNEW
+   254	TheYellowWallpaperbyCharlotteGilman.txt\twhat a vicious influence it had!
+   255	TheYellowWallpaperbyCharlotteGilman.txt\t
+   256	TheYellowWallpaperbyCharlotteGilman.txt\tThere is a recurrent spot where the pattern lolls like a broken neck and
+   257	TheYellowWallpaperbyCharlotteGilman.txt\ttwo bulbous eyes stare at you upside down.
+   258	TheYellowWallpaperbyCharlotteGilman.txt\t
+   259	TheYellowWallpaperbyCharlotteGilman.txt\tI get positively angry with the impertinence of it and the
+   260	TheYellowWallpaperbyCharlotteGilman.txt\teverlastingness. Up and down and sideways they crawl, and those absurd,
+   261	TheYellowWallpaperbyCharlotteGilman.txt\tunblinking eyes are everywhere. There is one place where two breadths
+   262	TheYellowWallpaperbyCharlotteGilman.txt\tdidn't match, and the eyes go all up and down the line, one a little
+   263	TheYellowWallpaperbyCharlotteGilman.txt\thigher than the other.
+   264	TheYellowWallpaperbyCharlotteGilman.txt\t
+   265	TheYellowWallpaperbyCharlotteGilman.txt\tI never saw so much expression in an inanimate thing before, and we all
+   266	TheYellowWallpaperbyCharlotteGilman.txt\tknow how much expression they have! I used to lie awake as a child and
+   267	TheYellowWallpaperbyCharlotteGilman.txt\tget more entertainment and terror out of blank walls and plain furniture
+   268	TheYellowWallpaperbyCharlotteGilman.txt\tthan most children could find in a toy store.
+   269	TheYellowWallpaperbyCharlotteGilman.txt\t
+   270	TheYellowWallpaperbyCharlotteGilman.txt\tI remember what a kindly wink the knobs of our big, old bureau used to
+   271	TheYellowWallpaperbyCharlotteGilman.txt\thave, and there was one chair that always seemed like a strong friend.
+   272	TheYellowWallpaperbyCharlotteGilman.txt\t
+   273	TheYellowWallpaperbyCharlotteGilman.txt\tI used to feel that if any of the other things looked too fierce I could
+   274	TheYellowWallpaperbyCharlotteGilman.txt\talways hop into that chair and be safe.
+   275	TheYellowWallpaperbyCharlotteGilman.txt\t
+   276	TheYellowWallpaperbyCharlotteGilman.txt\tThe furniture in this room is no worse than inharmonious, however, for
+   277	TheYellowWallpaperbyCharlotteGilman.txt\twe had to bring it all from downstairs. I suppose when this was used
+   278	TheYellowWallpaperbyCharlotteGilman.txt\tas a playroom they had to take the nursery things out, and no wonder! I
+   279	TheYellowWallpaperbyCharlotteGilman.txt\tnever saw such ravages as the children have made here.
+   280	TheYellowWallpaperbyCharlotteGilman.txt\t
+   281	TheYellowWallpaperbyCharlotteGilman.txt\tThe wall-paper, as I said before, is torn off in spots, and it sticketh
+   282	TheYellowWallpaperbyCharlotteGilman.txt\tcloser than a brother--they must have had perseverance as well as
+   283	TheYellowWallpaperbyCharlotteGilman.txt\thatred.
+   284	TheYellowWallpaperbyCharlotteGilman.txt\t
+   285	TheYellowWallpaperbyCharlotteGilman.txt\tThen the floor is scratched and gouged and splintered, the plaster
+   286	TheYellowWallpaperbyCharlotteGilman.txt\titself is dug out here and there, and this great heavy bed which is all
+   287	TheYellowWallpaperbyCharlotteGilman.txt\twe found in the room, looks as if it had been through the wars.
+   288	TheYellowWallpaperbyCharlotteGilman.txt\t
+   289	TheYellowWallpaperbyCharlotteGilman.txt\tBut I don't mind it a bit--only the paper.
+   290	TheYellowWallpaperbyCharlotteGilman.txt\t
+   291	TheYellowWallpaperbyCharlotteGilman.txt\tThere comes John's sister. Such a dear girl as she is, and so careful of
+   292	TheYellowWallpaperbyCharlotteGilman.txt\tme! I must not let her find me writing.
+   293	TheYellowWallpaperbyCharlotteGilman.txt\t
+   294	TheYellowWallpaperbyCharlotteGilman.txt\tShe is a perfect and enthusiastic housekeeper, and hopes for no better
+   295	TheYellowWallpaperbyCharlotteGilman.txt\tprofession. I verily believe she thinks it is the writing which made me
+   296	TheYellowWallpaperbyCharlotteGilman.txt\tsick!
+   297	TheYellowWallpaperbyCharlotteGilman.txt\t
+   298	TheYellowWallpaperbyCharlotteGilman.txt\tBut I can write when she is out, and see her a long way off from these
+   299	TheYellowWallpaperbyCharlotteGilman.txt\twindows.
+   300	TheYellowWallpaperbyCharlotteGilman.txt\t
+   301	TheYellowWallpaperbyCharlotteGilman.txt\tThere is one that commands the road, a lovely shaded winding road, and
+   302	TheYellowWallpaperbyCharlotteGilman.txt\tone that just looks off over the country. A lovely country, too, full of
+   303	TheYellowWallpaperbyCharlotteGilman.txt\tgreat elms and velvet meadows.
+   304	TheYellowWallpaperbyCharlotteGilman.txt\t
+   305	TheYellowWallpaperbyCharlotteGilman.txt\tThis wall-paper has a kind of sub-pattern in a different shade, a
+   306	TheYellowWallpaperbyCharlotteGilman.txt\tparticularly irritating one, for you can only see it in certain lights,
+   307	TheYellowWallpaperbyCharlotteGilman.txt\tand not clearly then.
+   308	TheYellowWallpaperbyCharlotteGilman.txt\t
+   309	TheYellowWallpaperbyCharlotteGilman.txt\tBut in the places where it isn't faded and where the sun is just so--I
+   310	TheYellowWallpaperbyCharlotteGilman.txt\tcan see a strange, provoking, formless sort of figure, that seems to
+   311	TheYellowWallpaperbyCharlotteGilman.txt\tskulk about behind that silly and conspicuous front design.
+   312	TheYellowWallpaperbyCharlotteGilman.txt\t
+   313	TheYellowWallpaperbyCharlotteGilman.txt\tThere's sister on the stairs!
+   314	TheYellowWallpaperbyCharlotteGilman.txt\t
+   315	TheYellowWallpaperbyCharlotteGilman.txt\t
+   316	TheYellowWallpaperbyCharlotteGilman.txt\tWell, the Fourth of July is over! The people are gone and I am tired
+   317	TheYellowWallpaperbyCharlotteGilman.txt\tout. John thought it might do me good to see a little company, so we
+   318	TheYellowWallpaperbyCharlotteGilman.txt\tjust had mother and Nellie and the children down for a week.
+   319	TheYellowWallpaperbyCharlotteGilman.txt\t
+   320	TheYellowWallpaperbyCharlotteGilman.txt\tOf course I didn't do a thing. Jennie sees to everything now.
+   321	TheYellowWallpaperbyCharlotteGilman.txt\t
+   322	TheYellowWallpaperbyCharlotteGilman.txt\tBut it tired me all the same.
+   323	TheYellowWallpaperbyCharlotteGilman.txt\t
+   324	TheYellowWallpaperbyCharlotteGilman.txt\tJohn says if I don't pick up faster he shall send me to Weir Mitchell in
+   325	TheYellowWallpaperbyCharlotteGilman.txt\tthe fall.
+   326	TheYellowWallpaperbyCharlotteGilman.txt\t
+   327	TheYellowWallpaperbyCharlotteGilman.txt\tBut I don't want to go there at all. I had a friend who was in his hands
+   328	TheYellowWallpaperbyCharlotteGilman.txt\tonce, and she says he is just like John and my brother, only more so!
+   329	TheYellowWallpaperbyCharlotteGilman.txt\t
+   330	TheYellowWallpaperbyCharlotteGilman.txt\tBesides, it is such an undertaking to go so far.
+   331	TheYellowWallpaperbyCharlotteGilman.txt\t
+   332	TheYellowWallpaperbyCharlotteGilman.txt\tI don't feel as if it was worth while to turn my hand over for anything,
+   333	TheYellowWallpaperbyCharlotteGilman.txt\tand I'm getting dreadfully fretful and querulous.
+   334	TheYellowWallpaperbyCharlotteGilman.txt\t
+   335	TheYellowWallpaperbyCharlotteGilman.txt\tI cry at nothing, and cry most of the time.
+   336	TheYellowWallpaperbyCharlotteGilman.txt\t
+   337	TheYellowWallpaperbyCharlotteGilman.txt\tOf course I don't when John is here, or anybody else, but when I am
+   338	TheYellowWallpaperbyCharlotteGilman.txt\talone.
+   339	TheYellowWallpaperbyCharlotteGilman.txt\t
+   340	TheYellowWallpaperbyCharlotteGilman.txt\tAnd I am alone a good deal just now. John is kept in town very often by
+   341	TheYellowWallpaperbyCharlotteGilman.txt\tserious cases, and Jennie is good and lets me alone when I want her to.
+   342	TheYellowWallpaperbyCharlotteGilman.txt\t
+   343	TheYellowWallpaperbyCharlotteGilman.txt\tSo I walk a little in the garden or down that lovely lane, sit on the
+   344	TheYellowWallpaperbyCharlotteGilman.txt\tporch under the roses, and lie down up here a good deal.
+   345	TheYellowWallpaperbyCharlotteGilman.txt\t
+   346	TheYellowWallpaperbyCharlotteGilman.txt\tI'm getting really fond of the room in spite of the wall-paper. Perhaps
+   347	TheYellowWallpaperbyCharlotteGilman.txt\tBECAUSE of the wall-paper.
+   348	TheYellowWallpaperbyCharlotteGilman.txt\t
+   349	TheYellowWallpaperbyCharlotteGilman.txt\tIt dwells in my mind so!
+   350	TheYellowWallpaperbyCharlotteGilman.txt\t
+   351	TheYellowWallpaperbyCharlotteGilman.txt\tI lie here on this great immovable bed--it is nailed down, I
+   352	TheYellowWallpaperbyCharlotteGilman.txt\tbelieve--and follow that pattern about by the hour. It is as good as
+   353	TheYellowWallpaperbyCharlotteGilman.txt\tgymnastics, I assure you. I start, we'll say, at the bottom, down in the
+   354	TheYellowWallpaperbyCharlotteGilman.txt\tcorner over there where it has not been touched, and I determine for the
+   355	TheYellowWallpaperbyCharlotteGilman.txt\tthousandth time that I WILL follow that pointless pattern to some sort
+   356	TheYellowWallpaperbyCharlotteGilman.txt\tof a conclusion.
+   357	TheYellowWallpaperbyCharlotteGilman.txt\t
+   358	TheYellowWallpaperbyCharlotteGilman.txt\tI know a little of the principle of design, and I know this thing was
+   359	TheYellowWallpaperbyCharlotteGilman.txt\tnot arranged on any laws of radiation, or alternation, or repetition, or
+   360	TheYellowWallpaperbyCharlotteGilman.txt\tsymmetry, or anything else that I ever heard of.
+   361	TheYellowWallpaperbyCharlotteGilman.txt\t
+   362	TheYellowWallpaperbyCharlotteGilman.txt\tIt is repeated, of course, by the breadths, but not otherwise.
+   363	TheYellowWallpaperbyCharlotteGilman.txt\t
+   364	TheYellowWallpaperbyCharlotteGilman.txt\tLooked at in one way each breadth stands alone, the bloated curves and
+   365	TheYellowWallpaperbyCharlotteGilman.txt\tflourishes--a kind of "debased Romanesque" with delirium tremens--go
+   366	TheYellowWallpaperbyCharlotteGilman.txt\twaddling up and down in isolated columns of fatuity.
+   367	TheYellowWallpaperbyCharlotteGilman.txt\t
+   368	TheYellowWallpaperbyCharlotteGilman.txt\tBut, on the other hand, they connect diagonally, and the sprawling
+   369	TheYellowWallpaperbyCharlotteGilman.txt\toutlines run off in great slanting waves of optic horror, like a lot of
+   370	TheYellowWallpaperbyCharlotteGilman.txt\twallowing seaweeds in full chase.
+   371	TheYellowWallpaperbyCharlotteGilman.txt\t
+   372	TheYellowWallpaperbyCharlotteGilman.txt\tThe whole thing goes horizontally, too, at least it seems so, and I
+   373	TheYellowWallpaperbyCharlotteGilman.txt\texhaust myself in trying to distinguish the order of its going in that
+   374	TheYellowWallpaperbyCharlotteGilman.txt\tdirection.
+   375	TheYellowWallpaperbyCharlotteGilman.txt\t
+   376	TheYellowWallpaperbyCharlotteGilman.txt\tThey have used a horizontal breadth for a frieze, and that adds
+   377	TheYellowWallpaperbyCharlotteGilman.txt\twonderfully to the confusion.
+   378	TheYellowWallpaperbyCharlotteGilman.txt\t
+   379	TheYellowWallpaperbyCharlotteGilman.txt\tThere is one end of the room where it is almost intact, and there, when
+   380	TheYellowWallpaperbyCharlotteGilman.txt\tthe crosslights fade and the low sun shines directly upon it, I can
+   381	TheYellowWallpaperbyCharlotteGilman.txt\talmost fancy radiation after all,--the interminable grotesques seem to
+   382	TheYellowWallpaperbyCharlotteGilman.txt\tform around a common centre and rush off in headlong plunges of equal
+   383	TheYellowWallpaperbyCharlotteGilman.txt\tdistraction.
+   384	TheYellowWallpaperbyCharlotteGilman.txt\t
+   385	TheYellowWallpaperbyCharlotteGilman.txt\tIt makes me tired to follow it. I will take a nap I guess.
+   386	TheYellowWallpaperbyCharlotteGilman.txt\t
+   387	TheYellowWallpaperbyCharlotteGilman.txt\tI don't know why I should write this.
+   388	TheYellowWallpaperbyCharlotteGilman.txt\t
+   389	TheYellowWallpaperbyCharlotteGilman.txt\tI don't want to.
+   390	TheYellowWallpaperbyCharlotteGilman.txt\t
+   391	TheYellowWallpaperbyCharlotteGilman.txt\tI don't feel able.
+   392	TheYellowWallpaperbyCharlotteGilman.txt\t
+   393	TheYellowWallpaperbyCharlotteGilman.txt\tAnd I know John would think it absurd. But I MUST say what I feel and
+   394	TheYellowWallpaperbyCharlotteGilman.txt\tthink in some way--it is such a relief!
+   395	TheYellowWallpaperbyCharlotteGilman.txt\t
+   396	TheYellowWallpaperbyCharlotteGilman.txt\tBut the effort is getting to be greater than the relief.
+   397	TheYellowWallpaperbyCharlotteGilman.txt\t
+   398	TheYellowWallpaperbyCharlotteGilman.txt\tHalf the time now I am awfully lazy, and lie down ever so much.
+   399	TheYellowWallpaperbyCharlotteGilman.txt\t
+   400	TheYellowWallpaperbyCharlotteGilman.txt\tJohn says I musn't lose my strength, and has me take cod liver oil and
+   401	TheYellowWallpaperbyCharlotteGilman.txt\tlots of tonics and things, to say nothing of ale and wine and rare meat.
+   402	TheYellowWallpaperbyCharlotteGilman.txt\t
+   403	TheYellowWallpaperbyCharlotteGilman.txt\tDear John! He loves me very dearly, and hates to have me sick. I tried
+   404	TheYellowWallpaperbyCharlotteGilman.txt\tto have a real earnest reasonable talk with him the other day, and tell
+   405	TheYellowWallpaperbyCharlotteGilman.txt\thim how I wish he would let me go and make a visit to Cousin Henry and
+   406	TheYellowWallpaperbyCharlotteGilman.txt\tJulia.
+   407	TheYellowWallpaperbyCharlotteGilman.txt\t
+   408	TheYellowWallpaperbyCharlotteGilman.txt\tBut he said I wasn't able to go, nor able to stand it after I got there;
+   409	TheYellowWallpaperbyCharlotteGilman.txt\tand I did not make out a very good case for myself, for I was crying
+   410	TheYellowWallpaperbyCharlotteGilman.txt\tbefore I had finished.
+   411	TheYellowWallpaperbyCharlotteGilman.txt\t
+   412	TheYellowWallpaperbyCharlotteGilman.txt\tIt is getting to be a great effort for me to think straight. Just this
+   413	TheYellowWallpaperbyCharlotteGilman.txt\tnervous weakness I suppose.
+   414	TheYellowWallpaperbyCharlotteGilman.txt\t
+   415	TheYellowWallpaperbyCharlotteGilman.txt\tAnd dear John gathered me up in his arms, and just carried me upstairs
+   416	TheYellowWallpaperbyCharlotteGilman.txt\tand laid me on the bed, and sat by me and read to me till it tired my
+   417	TheYellowWallpaperbyCharlotteGilman.txt\thead.
+   418	TheYellowWallpaperbyCharlotteGilman.txt\t
+   419	TheYellowWallpaperbyCharlotteGilman.txt\tHe said I was his darling and his comfort and all he had, and that I
+   420	TheYellowWallpaperbyCharlotteGilman.txt\tmust take care of myself for his sake, and keep well.
+   421	TheYellowWallpaperbyCharlotteGilman.txt\t
+   422	TheYellowWallpaperbyCharlotteGilman.txt\tHe says no one but myself can help me out of it, that I must use my will
+   423	TheYellowWallpaperbyCharlotteGilman.txt\tand self-control and not let any silly fancies run away with me.
+   424	TheYellowWallpaperbyCharlotteGilman.txt\t
+   425	TheYellowWallpaperbyCharlotteGilman.txt\tThere's one comfort, the baby is well and happy, and does not have to
+   426	TheYellowWallpaperbyCharlotteGilman.txt\toccupy this nursery with the horrid wall-paper.
+   427	TheYellowWallpaperbyCharlotteGilman.txt\t
+   428	TheYellowWallpaperbyCharlotteGilman.txt\tIf we had not used it, that blessed child would have! What a fortunate
+   429	TheYellowWallpaperbyCharlotteGilman.txt\tescape! Why, I wouldn't have a child of mine, an impressionable little
+   430	TheYellowWallpaperbyCharlotteGilman.txt\tthing, live in such a room for worlds.
+   431	TheYellowWallpaperbyCharlotteGilman.txt\t
+   432	TheYellowWallpaperbyCharlotteGilman.txt\tI never thought of it before, but it is lucky that John kept me here
+   433	TheYellowWallpaperbyCharlotteGilman.txt\tafter all, I can stand it so much easier than a baby, you see.
+   434	TheYellowWallpaperbyCharlotteGilman.txt\t
+   435	TheYellowWallpaperbyCharlotteGilman.txt\tOf course I never mention it to them any more--I am too wise,--but I
+   436	TheYellowWallpaperbyCharlotteGilman.txt\tkeep watch of it all the same.
+   437	TheYellowWallpaperbyCharlotteGilman.txt\t
+   438	TheYellowWallpaperbyCharlotteGilman.txt\tThere are things in that paper that nobody knows but me, or ever will.
+   439	TheYellowWallpaperbyCharlotteGilman.txt\t
+   440	TheYellowWallpaperbyCharlotteGilman.txt\tBehind that outside pattern the dim shapes get clearer every day.
+   441	TheYellowWallpaperbyCharlotteGilman.txt\t
+   442	TheYellowWallpaperbyCharlotteGilman.txt\tIt is always the same shape, only very numerous.
+   443	TheYellowWallpaperbyCharlotteGilman.txt\t
+   444	TheYellowWallpaperbyCharlotteGilman.txt\tAnd it is like a woman stooping down and creeping about behind that
+   445	TheYellowWallpaperbyCharlotteGilman.txt\tpattern. I don't like it a bit. I wonder--I begin to think--I wish John
+   446	TheYellowWallpaperbyCharlotteGilman.txt\twould take me away from here!
+   447	TheYellowWallpaperbyCharlotteGilman.txt\t
+   448	TheYellowWallpaperbyCharlotteGilman.txt\tIt is so hard to talk with John about my case, because he is so wise,
+   449	TheYellowWallpaperbyCharlotteGilman.txt\tand because he loves me so.
+   450	TheYellowWallpaperbyCharlotteGilman.txt\t
+   451	TheYellowWallpaperbyCharlotteGilman.txt\tBut I tried it last night.
+   452	TheYellowWallpaperbyCharlotteGilman.txt\t
+   453	TheYellowWallpaperbyCharlotteGilman.txt\tIt was moonlight. The moon shines in all around just as the sun does.
+   454	TheYellowWallpaperbyCharlotteGilman.txt\t
+   455	TheYellowWallpaperbyCharlotteGilman.txt\tI hate to see it sometimes, it creeps so slowly, and always comes in by
+   456	TheYellowWallpaperbyCharlotteGilman.txt\tone window or another.
+   457	TheYellowWallpaperbyCharlotteGilman.txt\t
+   458	TheYellowWallpaperbyCharlotteGilman.txt\tJohn was asleep and I hated to waken him, so I kept still and watched
+   459	TheYellowWallpaperbyCharlotteGilman.txt\tthe moonlight on that undulating wall-paper till I felt creepy.
+   460	TheYellowWallpaperbyCharlotteGilman.txt\t
+   461	TheYellowWallpaperbyCharlotteGilman.txt\tThe faint figure behind seemed to shake the pattern, just as if she
+   462	TheYellowWallpaperbyCharlotteGilman.txt\twanted to get out.
+   463	TheYellowWallpaperbyCharlotteGilman.txt\t
+   464	TheYellowWallpaperbyCharlotteGilman.txt\tI got up softly and went to feel and see if the paper DID move, and when
+   465	TheYellowWallpaperbyCharlotteGilman.txt\tI came back John was awake.
+   466	TheYellowWallpaperbyCharlotteGilman.txt\t
+   467	TheYellowWallpaperbyCharlotteGilman.txt\t"What is it, little girl?" he said. "Don't go walking about like
+   468	TheYellowWallpaperbyCharlotteGilman.txt\tthat--you'll get cold."
+   469	TheYellowWallpaperbyCharlotteGilman.txt\t
+   470	TheYellowWallpaperbyCharlotteGilman.txt\tI though it was a good time to talk, so I told him that I really was not
+   471	TheYellowWallpaperbyCharlotteGilman.txt\tgaining here, and that I wished he would take me away.
+   472	TheYellowWallpaperbyCharlotteGilman.txt\t
+   473	TheYellowWallpaperbyCharlotteGilman.txt\t"Why darling!" said he, "our lease will be up in three weeks, and I
+   474	TheYellowWallpaperbyCharlotteGilman.txt\tcan't see how to leave before.
+   475	TheYellowWallpaperbyCharlotteGilman.txt\t
+   476	TheYellowWallpaperbyCharlotteGilman.txt\t"The repairs are not done at home, and I cannot possibly leave town just
+   477	TheYellowWallpaperbyCharlotteGilman.txt\tnow. Of course if you were in any danger, I could and would, but you
+   478	TheYellowWallpaperbyCharlotteGilman.txt\treally are better, dear, whether you can see it or not. I am a doctor,
+   479	TheYellowWallpaperbyCharlotteGilman.txt\tdear, and I know. You are gaining flesh and color, your appetite is
+   480	TheYellowWallpaperbyCharlotteGilman.txt\tbetter, I feel really much easier about you."
+   481	TheYellowWallpaperbyCharlotteGilman.txt\t
+   482	TheYellowWallpaperbyCharlotteGilman.txt\t"I don't weigh a bit more," said I, "nor as much; and my appetite may be
+   483	TheYellowWallpaperbyCharlotteGilman.txt\tbetter in the evening when you are here, but it is worse in the morning
+   484	TheYellowWallpaperbyCharlotteGilman.txt\twhen you are away!"
+   485	TheYellowWallpaperbyCharlotteGilman.txt\t
+   486	TheYellowWallpaperbyCharlotteGilman.txt\t"Bless her little heart!" said he with a big hug, "she shall be as sick
+   487	TheYellowWallpaperbyCharlotteGilman.txt\tas she pleases! But now let's improve the shining hours by going to
+   488	TheYellowWallpaperbyCharlotteGilman.txt\tsleep, and talk about it in the morning!"
+   489	TheYellowWallpaperbyCharlotteGilman.txt\t
+   490	TheYellowWallpaperbyCharlotteGilman.txt\t"And you won't go away?" I asked gloomily.
+   491	TheYellowWallpaperbyCharlotteGilman.txt\t
+   492	TheYellowWallpaperbyCharlotteGilman.txt\t"Why, how can I, dear? It is only three weeks more and then we will
+   493	TheYellowWallpaperbyCharlotteGilman.txt\ttake a nice little trip of a few days while Jennie is getting the house
+   494	TheYellowWallpaperbyCharlotteGilman.txt\tready. Really dear you are better!"
+   495	TheYellowWallpaperbyCharlotteGilman.txt\t
+   496	TheYellowWallpaperbyCharlotteGilman.txt\t"Better in body perhaps--" I began, and stopped short, for he sat up
+   497	TheYellowWallpaperbyCharlotteGilman.txt\tstraight and looked at me with such a stern, reproachful look that I
+   498	TheYellowWallpaperbyCharlotteGilman.txt\tcould not say another word.
+   499	TheYellowWallpaperbyCharlotteGilman.txt\t
+   500	TheYellowWallpaperbyCharlotteGilman.txt\t"My darling," said he, "I beg of you, for my sake and for our child's
+   501	TheYellowWallpaperbyCharlotteGilman.txt\tsake, as well as for your own, that you will never for one instant
+   502	TheYellowWallpaperbyCharlotteGilman.txt\tlet that idea enter your mind! There is nothing so dangerous, so
+   503	TheYellowWallpaperbyCharlotteGilman.txt\tfascinating, to a temperament like yours. It is a false and foolish
+   504	TheYellowWallpaperbyCharlotteGilman.txt\tfancy. Can you not trust me as a physician when I tell you so?"
+   505	TheYellowWallpaperbyCharlotteGilman.txt\t
+   506	TheYellowWallpaperbyCharlotteGilman.txt\tSo of course I said no more on that score, and we went to sleep before
+   507	TheYellowWallpaperbyCharlotteGilman.txt\tlong. He thought I was asleep first, but I wasn't, and lay there for
+   508	TheYellowWallpaperbyCharlotteGilman.txt\thours trying to decide whether that front pattern and the back pattern
+   509	TheYellowWallpaperbyCharlotteGilman.txt\treally did move together or separately.
+   510	TheYellowWallpaperbyCharlotteGilman.txt\t
+   511	TheYellowWallpaperbyCharlotteGilman.txt\t
+   512	TheYellowWallpaperbyCharlotteGilman.txt\tOn a pattern like this, by daylight, there is a lack of sequence, a
+   513	TheYellowWallpaperbyCharlotteGilman.txt\tdefiance of law, that is a constant irritant to a normal mind.
+   514	TheYellowWallpaperbyCharlotteGilman.txt\t
+   515	TheYellowWallpaperbyCharlotteGilman.txt\tThe color is hideous enough, and unreliable enough, and infuriating
+   516	TheYellowWallpaperbyCharlotteGilman.txt\tenough, but the pattern is torturing.
+   517	TheYellowWallpaperbyCharlotteGilman.txt\t
+   518	TheYellowWallpaperbyCharlotteGilman.txt\tYou think you have mastered it, but just as you get well underway in
+   519	TheYellowWallpaperbyCharlotteGilman.txt\tfollowing, it turns a back-somersault and there you are. It slaps you
+   520	TheYellowWallpaperbyCharlotteGilman.txt\tin the face, knocks you down, and tramples upon you. It is like a bad
+   521	TheYellowWallpaperbyCharlotteGilman.txt\tdream.
+   522	TheYellowWallpaperbyCharlotteGilman.txt\t
+   523	TheYellowWallpaperbyCharlotteGilman.txt\tThe outside pattern is a florid arabesque, reminding one of a fungus.
+   524	TheYellowWallpaperbyCharlotteGilman.txt\tIf you can imagine a toadstool in joints, an interminable string of
+   525	TheYellowWallpaperbyCharlotteGilman.txt\ttoadstools, budding and sprouting in endless convolutions--why, that is
+   526	TheYellowWallpaperbyCharlotteGilman.txt\tsomething like it.
+   527	TheYellowWallpaperbyCharlotteGilman.txt\t
+   528	TheYellowWallpaperbyCharlotteGilman.txt\tThat is, sometimes!
+   529	TheYellowWallpaperbyCharlotteGilman.txt\t
+   530	TheYellowWallpaperbyCharlotteGilman.txt\tThere is one marked peculiarity about this paper, a thing nobody seems
+   531	TheYellowWallpaperbyCharlotteGilman.txt\tto notice but myself, and that is that it changes as the light changes.
+   532	TheYellowWallpaperbyCharlotteGilman.txt\t
+   533	TheYellowWallpaperbyCharlotteGilman.txt\tWhen the sun shoots in through the east window--I always watch for that
+   534	TheYellowWallpaperbyCharlotteGilman.txt\tfirst long, straight ray--it changes so quickly that I never can quite
+   535	TheYellowWallpaperbyCharlotteGilman.txt\tbelieve it.
+   536	TheYellowWallpaperbyCharlotteGilman.txt\t
+   537	TheYellowWallpaperbyCharlotteGilman.txt\tThat is why I watch it always.
+   538	TheYellowWallpaperbyCharlotteGilman.txt\t
+   539	TheYellowWallpaperbyCharlotteGilman.txt\tBy moonlight--the moon shines in all night when there is a moon--I
+   540	TheYellowWallpaperbyCharlotteGilman.txt\twouldn't know it was the same paper.
+   541	TheYellowWallpaperbyCharlotteGilman.txt\t
+   542	TheYellowWallpaperbyCharlotteGilman.txt\tAt night in any kind of light, in twilight, candle light, lamplight, and
+   543	TheYellowWallpaperbyCharlotteGilman.txt\tworst of all by moonlight, it becomes bars! The outside pattern I mean,
+   544	TheYellowWallpaperbyCharlotteGilman.txt\tand the woman behind it is as plain as can be.
+   545	TheYellowWallpaperbyCharlotteGilman.txt\t
+   546	TheYellowWallpaperbyCharlotteGilman.txt\tI didn't realize for a long time what the thing was that showed behind,
+   547	TheYellowWallpaperbyCharlotteGilman.txt\tthat dim sub-pattern, but now I am quite sure it is a woman.
+   548	TheYellowWallpaperbyCharlotteGilman.txt\t
+   549	TheYellowWallpaperbyCharlotteGilman.txt\tBy daylight she is subdued, quiet. I fancy it is the pattern that keeps
+   550	TheYellowWallpaperbyCharlotteGilman.txt\ther so still. It is so puzzling. It keeps me quiet by the hour.
+   551	TheYellowWallpaperbyCharlotteGilman.txt\t
+   552	TheYellowWallpaperbyCharlotteGilman.txt\tI lie down ever so much now. John says it is good for me, and to sleep
+   553	TheYellowWallpaperbyCharlotteGilman.txt\tall I can.
+   554	TheYellowWallpaperbyCharlotteGilman.txt\t
+   555	TheYellowWallpaperbyCharlotteGilman.txt\tIndeed he started the habit by making me lie down for an hour after each
+   556	TheYellowWallpaperbyCharlotteGilman.txt\tmeal.
+   557	TheYellowWallpaperbyCharlotteGilman.txt\t
+   558	TheYellowWallpaperbyCharlotteGilman.txt\tIt is a very bad habit I am convinced, for you see I don't sleep.
+   559	TheYellowWallpaperbyCharlotteGilman.txt\t
+   560	TheYellowWallpaperbyCharlotteGilman.txt\tAnd that cultivates deceit, for I don't tell them I'm awake--O no!
+   561	TheYellowWallpaperbyCharlotteGilman.txt\t
+   562	TheYellowWallpaperbyCharlotteGilman.txt\tThe fact is I am getting a little afraid of John.
+   563	TheYellowWallpaperbyCharlotteGilman.txt\t
+   564	TheYellowWallpaperbyCharlotteGilman.txt\tHe seems very queer sometimes, and even Jennie has an inexplicable look.
+   565	TheYellowWallpaperbyCharlotteGilman.txt\t
+   566	TheYellowWallpaperbyCharlotteGilman.txt\tIt strikes me occasionally, just as a scientific hypothesis,--that
+   567	TheYellowWallpaperbyCharlotteGilman.txt\tperhaps it is the paper!
+   568	TheYellowWallpaperbyCharlotteGilman.txt\t
+   569	TheYellowWallpaperbyCharlotteGilman.txt\tI have watched John when he did not know I was looking, and come into
+   570	TheYellowWallpaperbyCharlotteGilman.txt\tthe room suddenly on the most innocent excuses, and I've caught him
+   571	TheYellowWallpaperbyCharlotteGilman.txt\tseveral times LOOKING AT THE PAPER! And Jennie too. I caught Jennie with
+   572	TheYellowWallpaperbyCharlotteGilman.txt\ther hand on it once.
+   573	TheYellowWallpaperbyCharlotteGilman.txt\t
+   574	TheYellowWallpaperbyCharlotteGilman.txt\tShe didn't know I was in the room, and when I asked her in a quiet, a
+   575	TheYellowWallpaperbyCharlotteGilman.txt\tvery quiet voice, with the most restrained manner possible, what she
+   576	TheYellowWallpaperbyCharlotteGilman.txt\twas doing with the paper--she turned around as if she had been caught
+   577	TheYellowWallpaperbyCharlotteGilman.txt\tstealing, and looked quite angry--asked me why I should frighten her so!
+   578	TheYellowWallpaperbyCharlotteGilman.txt\t
+   579	TheYellowWallpaperbyCharlotteGilman.txt\tThen she said that the paper stained everything it touched, that she had
+   580	TheYellowWallpaperbyCharlotteGilman.txt\tfound yellow smooches on all my clothes and John's, and she wished we
+   581	TheYellowWallpaperbyCharlotteGilman.txt\twould be more careful!
+   582	TheYellowWallpaperbyCharlotteGilman.txt\t
+   583	TheYellowWallpaperbyCharlotteGilman.txt\tDid not that sound innocent? But I know she was studying that pattern,
+   584	TheYellowWallpaperbyCharlotteGilman.txt\tand I am determined that nobody shall find it out but myself!
+   585	TheYellowWallpaperbyCharlotteGilman.txt\t
+   586	TheYellowWallpaperbyCharlotteGilman.txt\t
+   587	TheYellowWallpaperbyCharlotteGilman.txt\tLife is very much more exciting now than it used to be. You see I have
+   588	TheYellowWallpaperbyCharlotteGilman.txt\tsomething more to expect, to look forward to, to watch. I really do eat
+   589	TheYellowWallpaperbyCharlotteGilman.txt\tbetter, and am more quiet than I was.
+   590	TheYellowWallpaperbyCharlotteGilman.txt\t
+   591	TheYellowWallpaperbyCharlotteGilman.txt\tJohn is so pleased to see me improve! He laughed a little the other day,
+   592	TheYellowWallpaperbyCharlotteGilman.txt\tand said I seemed to be flourishing in spite of my wall-paper.
+   593	TheYellowWallpaperbyCharlotteGilman.txt\t
+   594	TheYellowWallpaperbyCharlotteGilman.txt\tI turned it off with a laugh. I had no intention of telling him it was
+   595	TheYellowWallpaperbyCharlotteGilman.txt\tBECAUSE of the wall-paper--he would make fun of me. He might even want
+   596	TheYellowWallpaperbyCharlotteGilman.txt\tto take me away.
+   597	TheYellowWallpaperbyCharlotteGilman.txt\t
+   598	TheYellowWallpaperbyCharlotteGilman.txt\tI don't want to leave now until I have found it out. There is a week
+   599	TheYellowWallpaperbyCharlotteGilman.txt\tmore, and I think that will be enough.
+   600	TheYellowWallpaperbyCharlotteGilman.txt\t
+   601	TheYellowWallpaperbyCharlotteGilman.txt\t
+   602	TheYellowWallpaperbyCharlotteGilman.txt\tI'm feeling ever so much better! I don't sleep much at night, for it
+   603	TheYellowWallpaperbyCharlotteGilman.txt\tis so interesting to watch developments; but I sleep a good deal in the
+   604	TheYellowWallpaperbyCharlotteGilman.txt\tdaytime.
+   605	TheYellowWallpaperbyCharlotteGilman.txt\t
+   606	TheYellowWallpaperbyCharlotteGilman.txt\tIn the daytime it is tiresome and perplexing.
+   607	TheYellowWallpaperbyCharlotteGilman.txt\t
+   608	TheYellowWallpaperbyCharlotteGilman.txt\tThere are always new shoots on the fungus, and new shades of yellow
+   609	TheYellowWallpaperbyCharlotteGilman.txt\tall over it. I cannot keep count of them, though I have tried
+   610	TheYellowWallpaperbyCharlotteGilman.txt\tconscientiously.
+   611	TheYellowWallpaperbyCharlotteGilman.txt\t
+   612	TheYellowWallpaperbyCharlotteGilman.txt\tIt is the strangest yellow, that wall-paper! It makes me think of all
+   613	TheYellowWallpaperbyCharlotteGilman.txt\tthe yellow things I ever saw--not beautiful ones like buttercups, but
+   614	TheYellowWallpaperbyCharlotteGilman.txt\told foul, bad yellow things.
+   615	TheYellowWallpaperbyCharlotteGilman.txt\t
+   616	TheYellowWallpaperbyCharlotteGilman.txt\tBut there is something else about that paper--the smell! I noticed it
+   617	TheYellowWallpaperbyCharlotteGilman.txt\tthe moment we came into the room, but with so much air and sun it was
+   618	TheYellowWallpaperbyCharlotteGilman.txt\tnot bad. Now we have had a week of fog and rain, and whether the windows
+   619	TheYellowWallpaperbyCharlotteGilman.txt\tare open or not, the smell is here.
+   620	TheYellowWallpaperbyCharlotteGilman.txt\t
+   621	TheYellowWallpaperbyCharlotteGilman.txt\tIt creeps all over the house.
+   622	TheYellowWallpaperbyCharlotteGilman.txt\t
+   623	TheYellowWallpaperbyCharlotteGilman.txt\tI find it hovering in the dining-room, skulking in the parlor, hiding in
+   624	TheYellowWallpaperbyCharlotteGilman.txt\tthe hall, lying in wait for me on the stairs.
+   625	TheYellowWallpaperbyCharlotteGilman.txt\t
+   626	TheYellowWallpaperbyCharlotteGilman.txt\tIt gets into my hair.
+   627	TheYellowWallpaperbyCharlotteGilman.txt\t
+   628	TheYellowWallpaperbyCharlotteGilman.txt\tEven when I go to ride, if I turn my head suddenly and surprise
+   629	TheYellowWallpaperbyCharlotteGilman.txt\tit--there is that smell!
+   630	TheYellowWallpaperbyCharlotteGilman.txt\t
+   631	TheYellowWallpaperbyCharlotteGilman.txt\tSuch a peculiar odor, too! I have spent hours in trying to analyze it,
+   632	TheYellowWallpaperbyCharlotteGilman.txt\tto find what it smelled like.
+   633	TheYellowWallpaperbyCharlotteGilman.txt\t
+   634	TheYellowWallpaperbyCharlotteGilman.txt\tIt is not bad--at first, and very gentle, but quite the subtlest, most
+   635	TheYellowWallpaperbyCharlotteGilman.txt\tenduring odor I ever met.
+   636	TheYellowWallpaperbyCharlotteGilman.txt\t
+   637	TheYellowWallpaperbyCharlotteGilman.txt\tIn this damp weather it is awful, I wake up in the night and find it
+   638	TheYellowWallpaperbyCharlotteGilman.txt\thanging over me.
+   639	TheYellowWallpaperbyCharlotteGilman.txt\t
+   640	TheYellowWallpaperbyCharlotteGilman.txt\tIt used to disturb me at first. I thought seriously of burning the
+   641	TheYellowWallpaperbyCharlotteGilman.txt\thouse--to reach the smell.
+   642	TheYellowWallpaperbyCharlotteGilman.txt\t
+   643	TheYellowWallpaperbyCharlotteGilman.txt\tBut now I am used to it. The only thing I can think of that it is like
+   644	TheYellowWallpaperbyCharlotteGilman.txt\tis the COLOR of the paper! A yellow smell.
+   645	TheYellowWallpaperbyCharlotteGilman.txt\t
+   646	TheYellowWallpaperbyCharlotteGilman.txt\tThere is a very funny mark on this wall, low down, near the mopboard.
+   647	TheYellowWallpaperbyCharlotteGilman.txt\tA streak that runs round the room. It goes behind every piece of
+   648	TheYellowWallpaperbyCharlotteGilman.txt\tfurniture, except the bed, a long, straight, even SMOOCH, as if it had
+   649	TheYellowWallpaperbyCharlotteGilman.txt\tbeen rubbed over and over.
+   650	TheYellowWallpaperbyCharlotteGilman.txt\t
+   651	TheYellowWallpaperbyCharlotteGilman.txt\tI wonder how it was done and who did it, and what they did it for. Round
+   652	TheYellowWallpaperbyCharlotteGilman.txt\tand round and round--round and round and round--it makes me dizzy!
+   653	TheYellowWallpaperbyCharlotteGilman.txt\t
+   654	TheYellowWallpaperbyCharlotteGilman.txt\t
+   655	TheYellowWallpaperbyCharlotteGilman.txt\tI really have discovered something at last.
+   656	TheYellowWallpaperbyCharlotteGilman.txt\t
+   657	TheYellowWallpaperbyCharlotteGilman.txt\tThrough watching so much at night, when it changes so, I have finally
+   658	TheYellowWallpaperbyCharlotteGilman.txt\tfound out.
+   659	TheYellowWallpaperbyCharlotteGilman.txt\t
+   660	TheYellowWallpaperbyCharlotteGilman.txt\tThe front pattern DOES move--and no wonder! The woman behind shakes it!
+   661	TheYellowWallpaperbyCharlotteGilman.txt\t
+   662	TheYellowWallpaperbyCharlotteGilman.txt\tSometimes I think there are a great many women behind, and sometimes
+   663	TheYellowWallpaperbyCharlotteGilman.txt\tonly one, and she crawls around fast, and her crawling shakes it all
+   664	TheYellowWallpaperbyCharlotteGilman.txt\tover.
+   665	TheYellowWallpaperbyCharlotteGilman.txt\t
+   666	TheYellowWallpaperbyCharlotteGilman.txt\tThen in the very bright spots she keeps still, and in the very shady
+   667	TheYellowWallpaperbyCharlotteGilman.txt\tspots she just takes hold of the bars and shakes them hard.
+   668	TheYellowWallpaperbyCharlotteGilman.txt\t
+   669	TheYellowWallpaperbyCharlotteGilman.txt\tAnd she is all the time trying to climb through. But nobody could climb
+   670	TheYellowWallpaperbyCharlotteGilman.txt\tthrough that pattern--it strangles so; I think that is why it has so
+   671	TheYellowWallpaperbyCharlotteGilman.txt\tmany heads.
+   672	TheYellowWallpaperbyCharlotteGilman.txt\t
+   673	TheYellowWallpaperbyCharlotteGilman.txt\tThey get through, and then the pattern strangles them off and turns them
+   674	TheYellowWallpaperbyCharlotteGilman.txt\tupside down, and makes their eyes white!
+   675	TheYellowWallpaperbyCharlotteGilman.txt\t
+   676	TheYellowWallpaperbyCharlotteGilman.txt\tIf those heads were covered or taken off it would not be half so bad.
+   677	TheYellowWallpaperbyCharlotteGilman.txt\t
+   678	TheYellowWallpaperbyCharlotteGilman.txt\t
+   679	TheYellowWallpaperbyCharlotteGilman.txt\tI think that woman gets out in the daytime!
+   680	TheYellowWallpaperbyCharlotteGilman.txt\t
+   681	TheYellowWallpaperbyCharlotteGilman.txt\tAnd I'll tell you why--privately--I've seen her!
+   682	TheYellowWallpaperbyCharlotteGilman.txt\t
+   683	TheYellowWallpaperbyCharlotteGilman.txt\tI can see her out of every one of my windows!
+   684	TheYellowWallpaperbyCharlotteGilman.txt\t
+   685	TheYellowWallpaperbyCharlotteGilman.txt\tIt is the same woman, I know, for she is always creeping, and most women
+   686	TheYellowWallpaperbyCharlotteGilman.txt\tdo not creep by daylight.
+   687	TheYellowWallpaperbyCharlotteGilman.txt\t
+   688	TheYellowWallpaperbyCharlotteGilman.txt\tI see her on that long road under the trees, creeping along, and when a
+   689	TheYellowWallpaperbyCharlotteGilman.txt\tcarriage comes she hides under the blackberry vines.
+   690	TheYellowWallpaperbyCharlotteGilman.txt\t
+   691	TheYellowWallpaperbyCharlotteGilman.txt\tI don't blame her a bit. It must be very humiliating to be caught
+   692	TheYellowWallpaperbyCharlotteGilman.txt\tcreeping by daylight!
+   693	TheYellowWallpaperbyCharlotteGilman.txt\t
+   694	TheYellowWallpaperbyCharlotteGilman.txt\tI always lock the door when I creep by daylight. I can't do it at night,
+   695	TheYellowWallpaperbyCharlotteGilman.txt\tfor I know John would suspect something at once.
+   696	TheYellowWallpaperbyCharlotteGilman.txt\t
+   697	TheYellowWallpaperbyCharlotteGilman.txt\tAnd John is so queer now, that I don't want to irritate him. I wish he
+   698	TheYellowWallpaperbyCharlotteGilman.txt\twould take another room! Besides, I don't want anybody to get that woman
+   699	TheYellowWallpaperbyCharlotteGilman.txt\tout at night but myself.
+   700	TheYellowWallpaperbyCharlotteGilman.txt\t
+   701	TheYellowWallpaperbyCharlotteGilman.txt\tI often wonder if I could see her out of all the windows at once.
+   702	TheYellowWallpaperbyCharlotteGilman.txt\t
+   703	TheYellowWallpaperbyCharlotteGilman.txt\tBut, turn as fast as I can, I can only see out of one at one time.
+   704	TheYellowWallpaperbyCharlotteGilman.txt\t
+   705	TheYellowWallpaperbyCharlotteGilman.txt\tAnd though I always see her, she MAY be able to creep faster than I can
+   706	TheYellowWallpaperbyCharlotteGilman.txt\tturn!
+   707	TheYellowWallpaperbyCharlotteGilman.txt\t
+   708	TheYellowWallpaperbyCharlotteGilman.txt\tI have watched her sometimes away off in the open country, creeping as
+   709	TheYellowWallpaperbyCharlotteGilman.txt\tfast as a cloud shadow in a high wind.
+   710	TheYellowWallpaperbyCharlotteGilman.txt\t
+   711	TheYellowWallpaperbyCharlotteGilman.txt\tIf only that top pattern could be gotten off from the under one! I mean
+   712	TheYellowWallpaperbyCharlotteGilman.txt\tto try it, little by little.
+   713	TheYellowWallpaperbyCharlotteGilman.txt\t
+   714	TheYellowWallpaperbyCharlotteGilman.txt\tI have found out another funny thing, but I shan't tell it this time! It
+   715	TheYellowWallpaperbyCharlotteGilman.txt\tdoes not do to trust people too much.
+   716	TheYellowWallpaperbyCharlotteGilman.txt\t
+   717	TheYellowWallpaperbyCharlotteGilman.txt\tThere are only two more days to get this paper off, and I believe John
+   718	TheYellowWallpaperbyCharlotteGilman.txt\tis beginning to notice. I don't like the look in his eyes.
+   719	TheYellowWallpaperbyCharlotteGilman.txt\t
+   720	TheYellowWallpaperbyCharlotteGilman.txt\tAnd I heard him ask Jennie a lot of professional questions about me. She
+   721	TheYellowWallpaperbyCharlotteGilman.txt\thad a very good report to give.
+   722	TheYellowWallpaperbyCharlotteGilman.txt\t
+   723	TheYellowWallpaperbyCharlotteGilman.txt\tShe said I slept a good deal in the daytime.
+   724	TheYellowWallpaperbyCharlotteGilman.txt\t
+   725	TheYellowWallpaperbyCharlotteGilman.txt\tJohn knows I don't sleep very well at night, for all I'm so quiet!
+   726	TheYellowWallpaperbyCharlotteGilman.txt\t
+   727	TheYellowWallpaperbyCharlotteGilman.txt\tHe asked me all sorts of questions, too, and pretended to be very loving
+   728	TheYellowWallpaperbyCharlotteGilman.txt\tand kind.
+   729	TheYellowWallpaperbyCharlotteGilman.txt\t
+   730	TheYellowWallpaperbyCharlotteGilman.txt\tAs if I couldn't see through him!
+   731	TheYellowWallpaperbyCharlotteGilman.txt\t
+   732	TheYellowWallpaperbyCharlotteGilman.txt\tStill, I don't wonder he acts so, sleeping under this paper for three
+   733	TheYellowWallpaperbyCharlotteGilman.txt\tmonths.
+   734	TheYellowWallpaperbyCharlotteGilman.txt\t
+   735	TheYellowWallpaperbyCharlotteGilman.txt\tIt only interests me, but I feel sure John and Jennie are secretly
+   736	TheYellowWallpaperbyCharlotteGilman.txt\taffected by it.
+   737	TheYellowWallpaperbyCharlotteGilman.txt\t
+   738	TheYellowWallpaperbyCharlotteGilman.txt\t
+   739	TheYellowWallpaperbyCharlotteGilman.txt\tHurrah! This is the last day, but it is enough. John is to stay in town
+   740	TheYellowWallpaperbyCharlotteGilman.txt\tover night, and won't be out until this evening.
+   741	TheYellowWallpaperbyCharlotteGilman.txt\t
+   742	TheYellowWallpaperbyCharlotteGilman.txt\tJennie wanted to sleep with me--the sly thing! but I told her I should
+   743	TheYellowWallpaperbyCharlotteGilman.txt\tundoubtedly rest better for a night all alone.
+   744	TheYellowWallpaperbyCharlotteGilman.txt\t
+   745	TheYellowWallpaperbyCharlotteGilman.txt\tThat was clever, for really I wasn't alone a bit! As soon as it was
+   746	TheYellowWallpaperbyCharlotteGilman.txt\tmoonlight and that poor thing began to crawl and shake the pattern, I
+   747	TheYellowWallpaperbyCharlotteGilman.txt\tgot up and ran to help her.
+   748	TheYellowWallpaperbyCharlotteGilman.txt\t
+   749	TheYellowWallpaperbyCharlotteGilman.txt\tI pulled and she shook, I shook and she pulled, and before morning we
+   750	TheYellowWallpaperbyCharlotteGilman.txt\thad peeled off yards of that paper.
+   751	TheYellowWallpaperbyCharlotteGilman.txt\t
+   752	TheYellowWallpaperbyCharlotteGilman.txt\tA strip about as high as my head and half around the room.
+   753	TheYellowWallpaperbyCharlotteGilman.txt\t
+   754	TheYellowWallpaperbyCharlotteGilman.txt\tAnd then when the sun came and that awful pattern began to laugh at me,
+   755	TheYellowWallpaperbyCharlotteGilman.txt\tI declared I would finish it to-day!
+   756	TheYellowWallpaperbyCharlotteGilman.txt\t
+   757	TheYellowWallpaperbyCharlotteGilman.txt\tWe go away to-morrow, and they are moving all my furniture down again to
+   758	TheYellowWallpaperbyCharlotteGilman.txt\tleave things as they were before.
+   759	TheYellowWallpaperbyCharlotteGilman.txt\t
+   760	TheYellowWallpaperbyCharlotteGilman.txt\tJennie looked at the wall in amazement, but I told her merrily that I
+   761	TheYellowWallpaperbyCharlotteGilman.txt\tdid it out of pure spite at the vicious thing.
+   762	TheYellowWallpaperbyCharlotteGilman.txt\t
+   763	TheYellowWallpaperbyCharlotteGilman.txt\tShe laughed and said she wouldn't mind doing it herself, but I must not
+   764	TheYellowWallpaperbyCharlotteGilman.txt\tget tired.
+   765	TheYellowWallpaperbyCharlotteGilman.txt\t
+   766	TheYellowWallpaperbyCharlotteGilman.txt\tHow she betrayed herself that time!
+   767	TheYellowWallpaperbyCharlotteGilman.txt\t
+   768	TheYellowWallpaperbyCharlotteGilman.txt\tBut I am here, and no person touches this paper but me--not ALIVE!
+   769	TheYellowWallpaperbyCharlotteGilman.txt\t
+   770	TheYellowWallpaperbyCharlotteGilman.txt\tShe tried to get me out of the room--it was too patent! But I said it
+   771	TheYellowWallpaperbyCharlotteGilman.txt\twas so quiet and empty and clean now that I believed I would lie down
+   772	TheYellowWallpaperbyCharlotteGilman.txt\tagain and sleep all I could; and not to wake me even for dinner--I would
+   773	TheYellowWallpaperbyCharlotteGilman.txt\tcall when I woke.
+   774	TheYellowWallpaperbyCharlotteGilman.txt\t
+   775	TheYellowWallpaperbyCharlotteGilman.txt\tSo now she is gone, and the servants are gone, and the things are gone,
+   776	TheYellowWallpaperbyCharlotteGilman.txt\tand there is nothing left but that great bedstead nailed down, with the
+   777	TheYellowWallpaperbyCharlotteGilman.txt\tcanvas mattress we found on it.
+   778	TheYellowWallpaperbyCharlotteGilman.txt\t
+   779	TheYellowWallpaperbyCharlotteGilman.txt\tWe shall sleep downstairs to-night, and take the boat home to-morrow.
+   780	TheYellowWallpaperbyCharlotteGilman.txt\t
+   781	TheYellowWallpaperbyCharlotteGilman.txt\tI quite enjoy the room, now it is bare again.
+   782	TheYellowWallpaperbyCharlotteGilman.txt\t
+   783	TheYellowWallpaperbyCharlotteGilman.txt\tHow those children did tear about here!
+   784	TheYellowWallpaperbyCharlotteGilman.txt\t
+   785	TheYellowWallpaperbyCharlotteGilman.txt\tThis bedstead is fairly gnawed!
+   786	TheYellowWallpaperbyCharlotteGilman.txt\t
+   787	TheYellowWallpaperbyCharlotteGilman.txt\tBut I must get to work.
+   788	TheYellowWallpaperbyCharlotteGilman.txt\t
+   789	TheYellowWallpaperbyCharlotteGilman.txt\tI have locked the door and thrown the key down into the front path.
+   790	TheYellowWallpaperbyCharlotteGilman.txt\t
+   791	TheYellowWallpaperbyCharlotteGilman.txt\tI don't want to go out, and I don't want to have anybody come in, till
+   792	TheYellowWallpaperbyCharlotteGilman.txt\tJohn comes.
+   793	TheYellowWallpaperbyCharlotteGilman.txt\t
+   794	TheYellowWallpaperbyCharlotteGilman.txt\tI want to astonish him.
+   795	TheYellowWallpaperbyCharlotteGilman.txt\t
+   796	TheYellowWallpaperbyCharlotteGilman.txt\tI've got a rope up here that even Jennie did not find. If that woman
+   797	TheYellowWallpaperbyCharlotteGilman.txt\tdoes get out, and tries to get away, I can tie her!
+   798	TheYellowWallpaperbyCharlotteGilman.txt\t
+   799	TheYellowWallpaperbyCharlotteGilman.txt\tBut I forgot I could not reach far without anything to stand on!
+   800	TheYellowWallpaperbyCharlotteGilman.txt\t
+   801	TheYellowWallpaperbyCharlotteGilman.txt\tThis bed will NOT move!
+   802	TheYellowWallpaperbyCharlotteGilman.txt\t
+   803	TheYellowWallpaperbyCharlotteGilman.txt\tI tried to lift and push it until I was lame, and then I got so angry I
+   804	TheYellowWallpaperbyCharlotteGilman.txt\tbit off a little piece at one corner--but it hurt my teeth.
+   805	TheYellowWallpaperbyCharlotteGilman.txt\t
+   806	TheYellowWallpaperbyCharlotteGilman.txt\tThen I peeled off all the paper I could reach standing on the floor.
+   807	TheYellowWallpaperbyCharlotteGilman.txt\tIt sticks horribly and the pattern just enjoys it! All those strangled
+   808	TheYellowWallpaperbyCharlotteGilman.txt\theads and bulbous eyes and waddling fungus growths just shriek with
+   809	TheYellowWallpaperbyCharlotteGilman.txt\tderision!
+   810	TheYellowWallpaperbyCharlotteGilman.txt\t
+   811	TheYellowWallpaperbyCharlotteGilman.txt\tI am getting angry enough to do something desperate. To jump out of the
+   812	TheYellowWallpaperbyCharlotteGilman.txt\twindow would be admirable exercise, but the bars are too strong even to
+   813	TheYellowWallpaperbyCharlotteGilman.txt\ttry.
+   814	TheYellowWallpaperbyCharlotteGilman.txt\t
+   815	TheYellowWallpaperbyCharlotteGilman.txt\tBesides I wouldn't do it. Of course not. I know well enough that a step
+   816	TheYellowWallpaperbyCharlotteGilman.txt\tlike that is improper and might be misconstrued.
+   817	TheYellowWallpaperbyCharlotteGilman.txt\t
+   818	TheYellowWallpaperbyCharlotteGilman.txt\tI don't like to LOOK out of the windows even--there are so many of those
+   819	TheYellowWallpaperbyCharlotteGilman.txt\tcreeping women, and they creep so fast.
+   820	TheYellowWallpaperbyCharlotteGilman.txt\t
+   821	TheYellowWallpaperbyCharlotteGilman.txt\tI wonder if they all come out of that wall-paper as I did?
+   822	TheYellowWallpaperbyCharlotteGilman.txt\t
+   823	TheYellowWallpaperbyCharlotteGilman.txt\tBut I am securely fastened now by my well-hidden rope--you don't get ME
+   824	TheYellowWallpaperbyCharlotteGilman.txt\tout in the road there!
+   825	TheYellowWallpaperbyCharlotteGilman.txt\t
+   826	TheYellowWallpaperbyCharlotteGilman.txt\tI suppose I shall have to get back behind the pattern when it comes
+   827	TheYellowWallpaperbyCharlotteGilman.txt\tnight, and that is hard!
+   828	TheYellowWallpaperbyCharlotteGilman.txt\t
+   829	TheYellowWallpaperbyCharlotteGilman.txt\tIt is so pleasant to be out in this great room and creep around as I
+   830	TheYellowWallpaperbyCharlotteGilman.txt\tplease!
+   831	TheYellowWallpaperbyCharlotteGilman.txt\t
+   832	TheYellowWallpaperbyCharlotteGilman.txt\tI don't want to go outside. I won't, even if Jennie asks me to.
+   833	TheYellowWallpaperbyCharlotteGilman.txt\t
+   834	TheYellowWallpaperbyCharlotteGilman.txt\tFor outside you have to creep on the ground, and everything is green
+   835	TheYellowWallpaperbyCharlotteGilman.txt\tinstead of yellow.
+   836	TheYellowWallpaperbyCharlotteGilman.txt\t
+   837	TheYellowWallpaperbyCharlotteGilman.txt\tBut here I can creep smoothly on the floor, and my shoulder just fits in
+   838	TheYellowWallpaperbyCharlotteGilman.txt\tthat long smooch around the wall, so I cannot lose my way.
+   839	TheYellowWallpaperbyCharlotteGilman.txt\t
+   840	TheYellowWallpaperbyCharlotteGilman.txt\tWhy there's John at the door!
+   841	TheYellowWallpaperbyCharlotteGilman.txt\t
+   842	TheYellowWallpaperbyCharlotteGilman.txt\tIt is no use, young man, you can't open it!
+   843	TheYellowWallpaperbyCharlotteGilman.txt\t
+   844	TheYellowWallpaperbyCharlotteGilman.txt\tHow he does call and pound!
+   845	TheYellowWallpaperbyCharlotteGilman.txt\t
+   846	TheYellowWallpaperbyCharlotteGilman.txt\tNow he's crying for an axe.
+   847	TheYellowWallpaperbyCharlotteGilman.txt\t
+   848	TheYellowWallpaperbyCharlotteGilman.txt\tIt would be a shame to break down that beautiful door!
+   849	TheYellowWallpaperbyCharlotteGilman.txt\t
+   850	TheYellowWallpaperbyCharlotteGilman.txt\t"John dear!" said I in the gentlest voice, "the key is down by the front
+   851	TheYellowWallpaperbyCharlotteGilman.txt\tsteps, under a plantain leaf!"
+   852	TheYellowWallpaperbyCharlotteGilman.txt\t
+   853	TheYellowWallpaperbyCharlotteGilman.txt\tThat silenced him for a few moments.
+   854	TheYellowWallpaperbyCharlotteGilman.txt\t
+   855	TheYellowWallpaperbyCharlotteGilman.txt\tThen he said--very quietly indeed, "Open the door, my darling!"
+   856	TheYellowWallpaperbyCharlotteGilman.txt\t
+   857	TheYellowWallpaperbyCharlotteGilman.txt\t"I can't," said I. "The key is down by the front door under a plantain
+   858	TheYellowWallpaperbyCharlotteGilman.txt\tleaf!"
+   859	TheYellowWallpaperbyCharlotteGilman.txt\t
+   860	TheYellowWallpaperbyCharlotteGilman.txt\tAnd then I said it again, several times, very gently and slowly, and
+   861	TheYellowWallpaperbyCharlotteGilman.txt\tsaid it so often that he had to go and see, and he got it of course, and
+   862	TheYellowWallpaperbyCharlotteGilman.txt\tcame in. He stopped short by the door.
+   863	TheYellowWallpaperbyCharlotteGilman.txt\t
+   864	TheYellowWallpaperbyCharlotteGilman.txt\t"What is the matter?" he cried. "For God's sake, what are you doing!"
+   865	TheYellowWallpaperbyCharlotteGilman.txt\t
+   866	TheYellowWallpaperbyCharlotteGilman.txt\tI kept on creeping just the same, but I looked at him over my shoulder.
+   867	TheYellowWallpaperbyCharlotteGilman.txt\t
+   868	TheYellowWallpaperbyCharlotteGilman.txt\t"I've got out at last," said I, "in spite of you and Jane. And I've
+   869	TheYellowWallpaperbyCharlotteGilman.txt\tpulled off most of the paper, so you can't put me back!"
+   870	TheYellowWallpaperbyCharlotteGilman.txt\t
+   871	TheYellowWallpaperbyCharlotteGilman.txt\tNow why should that man have fainted? But he did, and right across my
+   872	TheYellowWallpaperbyCharlotteGilman.txt\tpath by the wall, so that I had to creep over him every time!
+   873	TheYellowWallpaperbyCharlotteGilman.txt\t
+   874	TheYellowWallpaperbyCharlotteGilman.txt\t
+   875	TheYellowWallpaperbyCharlotteGilman.txt\t
+   876	TheYellowWallpaperbyCharlotteGilman.txt\t
+   877	TheYellowWallpaperbyCharlotteGilman.txt\t
+   878	TheYellowWallpaperbyCharlotteGilman.txt\tEnd of Project Gutenberg's The Yellow Wallpaper, by Charlotte Perkins Gilman
+   879	TheYellowWallpaperbyCharlotteGilman.txt\t
+   880	TheYellowWallpaperbyCharlotteGilman.txt\t*** END OF THIS PROJECT GUTENBERG EBOOK THE YELLOW WALLPAPER ***
+   881	TheYellowWallpaperbyCharlotteGilman.txt\t
+   882	TheYellowWallpaperbyCharlotteGilman.txt\t***** This file should be named 1952.txt or 1952.zip *****
+   883	TheYellowWallpaperbyCharlotteGilman.txt\tThis and all associated files of various formats will be found in:
+   884	TheYellowWallpaperbyCharlotteGilman.txt\t        http://www.gutenberg.org/1/9/5/1952/
+   885	TheYellowWallpaperbyCharlotteGilman.txt\t
+   886	TheYellowWallpaperbyCharlotteGilman.txt\tProduced by An Anonymous Volunteer
+   887	TheYellowWallpaperbyCharlotteGilman.txt\t
+   888	TheYellowWallpaperbyCharlotteGilman.txt\tUpdated editions will replace the previous one--the old editions
+   889	TheYellowWallpaperbyCharlotteGilman.txt\twill be renamed.
+   890	TheYellowWallpaperbyCharlotteGilman.txt\t
+   891	TheYellowWallpaperbyCharlotteGilman.txt\tCreating the works from public domain print editions means that no
+   892	TheYellowWallpaperbyCharlotteGilman.txt\tone owns a United States copyright in these works, so the Foundation
+   893	TheYellowWallpaperbyCharlotteGilman.txt\t(and you!) can copy and distribute it in the United States without
+   894	TheYellowWallpaperbyCharlotteGilman.txt\tpermission and without paying copyright royalties.  Special rules,
+   895	TheYellowWallpaperbyCharlotteGilman.txt\tset forth in the General Terms of Use part of this license, apply to
+   896	TheYellowWallpaperbyCharlotteGilman.txt\tcopying and distributing Project Gutenberg-tm electronic works to
+   897	TheYellowWallpaperbyCharlotteGilman.txt\tprotect the PROJECT GUTENBERG-tm concept and trademark.  Project
+   898	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg is a registered trademark, and may not be used if you
+   899	TheYellowWallpaperbyCharlotteGilman.txt\tcharge for the eBooks, unless you receive specific permission.  If you
+   900	TheYellowWallpaperbyCharlotteGilman.txt\tdo not charge anything for copies of this eBook, complying with the
+   901	TheYellowWallpaperbyCharlotteGilman.txt\trules is very easy.  You may use this eBook for nearly any purpose
+   902	TheYellowWallpaperbyCharlotteGilman.txt\tsuch as creation of derivative works, reports, performances and
+   903	TheYellowWallpaperbyCharlotteGilman.txt\tresearch.  They may be modified and printed and given away--you may do
+   904	TheYellowWallpaperbyCharlotteGilman.txt\tpractically ANYTHING with public domain eBooks.  Redistribution is
+   905	TheYellowWallpaperbyCharlotteGilman.txt\tsubject to the trademark license, especially commercial
+   906	TheYellowWallpaperbyCharlotteGilman.txt\tredistribution.
+   907	TheYellowWallpaperbyCharlotteGilman.txt\t
+   908	TheYellowWallpaperbyCharlotteGilman.txt\t
+   909	TheYellowWallpaperbyCharlotteGilman.txt\t
+   910	TheYellowWallpaperbyCharlotteGilman.txt\t*** START: FULL LICENSE ***
+   911	TheYellowWallpaperbyCharlotteGilman.txt\t
+   912	TheYellowWallpaperbyCharlotteGilman.txt\tTHE FULL PROJECT GUTENBERG LICENSE
+   913	TheYellowWallpaperbyCharlotteGilman.txt\tPLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+   914	TheYellowWallpaperbyCharlotteGilman.txt\t
+   915	TheYellowWallpaperbyCharlotteGilman.txt\tTo protect the Project Gutenberg-tm mission of promoting the free
+   916	TheYellowWallpaperbyCharlotteGilman.txt\tdistribution of electronic works, by using or distributing this work
+   917	TheYellowWallpaperbyCharlotteGilman.txt\t(or any other work associated in any way with the phrase "Project
+   918	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg"), you agree to comply with all the terms of the Full Project
+   919	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm License (available with this file or online at
+   920	TheYellowWallpaperbyCharlotteGilman.txt\thttp://gutenberg.org/license).
+   921	TheYellowWallpaperbyCharlotteGilman.txt\t
+   922	TheYellowWallpaperbyCharlotteGilman.txt\t
+   923	TheYellowWallpaperbyCharlotteGilman.txt\tSection 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+   924	TheYellowWallpaperbyCharlotteGilman.txt\telectronic works
+   925	TheYellowWallpaperbyCharlotteGilman.txt\t
+   926	TheYellowWallpaperbyCharlotteGilman.txt\t1.A.  By reading or using any part of this Project Gutenberg-tm
+   927	TheYellowWallpaperbyCharlotteGilman.txt\telectronic work, you indicate that you have read, understand, agree to
+   928	TheYellowWallpaperbyCharlotteGilman.txt\tand accept all the terms of this license and intellectual property
+   929	TheYellowWallpaperbyCharlotteGilman.txt\t(trademark/copyright) agreement.  If you do not agree to abide by all
+   930	TheYellowWallpaperbyCharlotteGilman.txt\tthe terms of this agreement, you must cease using and return or destroy
+   931	TheYellowWallpaperbyCharlotteGilman.txt\tall copies of Project Gutenberg-tm electronic works in your possession.
+   932	TheYellowWallpaperbyCharlotteGilman.txt\tIf you paid a fee for obtaining a copy of or access to a Project
+   933	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm electronic work and you do not agree to be bound by the
+   934	TheYellowWallpaperbyCharlotteGilman.txt\tterms of this agreement, you may obtain a refund from the person or
+   935	TheYellowWallpaperbyCharlotteGilman.txt\tentity to whom you paid the fee as set forth in paragraph 1.E.8.
+   936	TheYellowWallpaperbyCharlotteGilman.txt\t
+   937	TheYellowWallpaperbyCharlotteGilman.txt\t1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+   938	TheYellowWallpaperbyCharlotteGilman.txt\tused on or associated in any way with an electronic work by people who
+   939	TheYellowWallpaperbyCharlotteGilman.txt\tagree to be bound by the terms of this agreement.  There are a few
+   940	TheYellowWallpaperbyCharlotteGilman.txt\tthings that you can do with most Project Gutenberg-tm electronic works
+   941	TheYellowWallpaperbyCharlotteGilman.txt\teven without complying with the full terms of this agreement.  See
+   942	TheYellowWallpaperbyCharlotteGilman.txt\tparagraph 1.C below.  There are a lot of things you can do with Project
+   943	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm electronic works if you follow the terms of this agreement
+   944	TheYellowWallpaperbyCharlotteGilman.txt\tand help preserve free future access to Project Gutenberg-tm electronic
+   945	TheYellowWallpaperbyCharlotteGilman.txt\tworks.  See paragraph 1.E below.
+   946	TheYellowWallpaperbyCharlotteGilman.txt\t
+   947	TheYellowWallpaperbyCharlotteGilman.txt\t1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+   948	TheYellowWallpaperbyCharlotteGilman.txt\tor PGLAF), owns a compilation copyright in the collection of Project
+   949	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm electronic works.  Nearly all the individual works in the
+   950	TheYellowWallpaperbyCharlotteGilman.txt\tcollection are in the public domain in the United States.  If an
+   951	TheYellowWallpaperbyCharlotteGilman.txt\tindividual work is in the public domain in the United States and you are
+   952	TheYellowWallpaperbyCharlotteGilman.txt\tlocated in the United States, we do not claim a right to prevent you from
+   953	TheYellowWallpaperbyCharlotteGilman.txt\tcopying, distributing, performing, displaying or creating derivative
+   954	TheYellowWallpaperbyCharlotteGilman.txt\tworks based on the work as long as all references to Project Gutenberg
+   955	TheYellowWallpaperbyCharlotteGilman.txt\tare removed.  Of course, we hope that you will support the Project
+   956	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm mission of promoting free access to electronic works by
+   957	TheYellowWallpaperbyCharlotteGilman.txt\tfreely sharing Project Gutenberg-tm works in compliance with the terms of
+   958	TheYellowWallpaperbyCharlotteGilman.txt\tthis agreement for keeping the Project Gutenberg-tm name associated with
+   959	TheYellowWallpaperbyCharlotteGilman.txt\tthe work.  You can easily comply with the terms of this agreement by
+   960	TheYellowWallpaperbyCharlotteGilman.txt\tkeeping this work in the same format with its attached full Project
+   961	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm License when you share it without charge with others.
+   962	TheYellowWallpaperbyCharlotteGilman.txt\t
+   963	TheYellowWallpaperbyCharlotteGilman.txt\t1.D.  The copyright laws of the place where you are located also govern
+   964	TheYellowWallpaperbyCharlotteGilman.txt\twhat you can do with this work.  Copyright laws in most countries are in
+   965	TheYellowWallpaperbyCharlotteGilman.txt\ta constant state of change.  If you are outside the United States, check
+   966	TheYellowWallpaperbyCharlotteGilman.txt\tthe laws of your country in addition to the terms of this agreement
+   967	TheYellowWallpaperbyCharlotteGilman.txt\tbefore downloading, copying, displaying, performing, distributing or
+   968	TheYellowWallpaperbyCharlotteGilman.txt\tcreating derivative works based on this work or any other Project
+   969	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm work.  The Foundation makes no representations concerning
+   970	TheYellowWallpaperbyCharlotteGilman.txt\tthe copyright status of any work in any country outside the United
+   971	TheYellowWallpaperbyCharlotteGilman.txt\tStates.
+   972	TheYellowWallpaperbyCharlotteGilman.txt\t
+   973	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.  Unless you have removed all references to Project Gutenberg:
+   974	TheYellowWallpaperbyCharlotteGilman.txt\t
+   975	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.1.  The following sentence, with active links to, or other immediate
+   976	TheYellowWallpaperbyCharlotteGilman.txt\taccess to, the full Project Gutenberg-tm License must appear prominently
+   977	TheYellowWallpaperbyCharlotteGilman.txt\twhenever any copy of a Project Gutenberg-tm work (any work on which the
+   978	TheYellowWallpaperbyCharlotteGilman.txt\tphrase "Project Gutenberg" appears, or with which the phrase "Project
+   979	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg" is associated) is accessed, displayed, performed, viewed,
+   980	TheYellowWallpaperbyCharlotteGilman.txt\tcopied or distributed:
+   981	TheYellowWallpaperbyCharlotteGilman.txt\t
+   982	TheYellowWallpaperbyCharlotteGilman.txt\tThis eBook is for the use of anyone anywhere at no cost and with
+   983	TheYellowWallpaperbyCharlotteGilman.txt\talmost no restrictions whatsoever.  You may copy it, give it away or
+   984	TheYellowWallpaperbyCharlotteGilman.txt\tre-use it under the terms of the Project Gutenberg License included
+   985	TheYellowWallpaperbyCharlotteGilman.txt\twith this eBook or online at www.gutenberg.org
+   986	TheYellowWallpaperbyCharlotteGilman.txt\t
+   987	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+   988	TheYellowWallpaperbyCharlotteGilman.txt\tfrom the public domain (does not contain a notice indicating that it is
+   989	TheYellowWallpaperbyCharlotteGilman.txt\tposted with permission of the copyright holder), the work can be copied
+   990	TheYellowWallpaperbyCharlotteGilman.txt\tand distributed to anyone in the United States without paying any fees
+   991	TheYellowWallpaperbyCharlotteGilman.txt\tor charges.  If you are redistributing or providing access to a work
+   992	TheYellowWallpaperbyCharlotteGilman.txt\twith the phrase "Project Gutenberg" associated with or appearing on the
+   993	TheYellowWallpaperbyCharlotteGilman.txt\twork, you must comply either with the requirements of paragraphs 1.E.1
+   994	TheYellowWallpaperbyCharlotteGilman.txt\tthrough 1.E.7 or obtain permission for the use of the work and the
+   995	TheYellowWallpaperbyCharlotteGilman.txt\tProject Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+   996	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.9.
+   997	TheYellowWallpaperbyCharlotteGilman.txt\t
+   998	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+   999	TheYellowWallpaperbyCharlotteGilman.txt\twith the permission of the copyright holder, your use and distribution
+  1000	TheYellowWallpaperbyCharlotteGilman.txt\tmust comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+  1001	TheYellowWallpaperbyCharlotteGilman.txt\tterms imposed by the copyright holder.  Additional terms will be linked
+  1002	TheYellowWallpaperbyCharlotteGilman.txt\tto the Project Gutenberg-tm License for all works posted with the
+  1003	TheYellowWallpaperbyCharlotteGilman.txt\tpermission of the copyright holder found at the beginning of this work.
+  1004	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1005	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+  1006	TheYellowWallpaperbyCharlotteGilman.txt\tLicense terms from this work, or any files containing a part of this
+  1007	TheYellowWallpaperbyCharlotteGilman.txt\twork or any other work associated with Project Gutenberg-tm.
+  1008	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1009	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.5.  Do not copy, display, perform, distribute or redistribute this
+  1010	TheYellowWallpaperbyCharlotteGilman.txt\telectronic work, or any part of this electronic work, without
+  1011	TheYellowWallpaperbyCharlotteGilman.txt\tprominently displaying the sentence set forth in paragraph 1.E.1 with
+  1012	TheYellowWallpaperbyCharlotteGilman.txt\tactive links or immediate access to the full terms of the Project
+  1013	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm License.
+  1014	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1015	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.6.  You may convert to and distribute this work in any binary,
+  1016	TheYellowWallpaperbyCharlotteGilman.txt\tcompressed, marked up, nonproprietary or proprietary form, including any
+  1017	TheYellowWallpaperbyCharlotteGilman.txt\tword processing or hypertext form.  However, if you provide access to or
+  1018	TheYellowWallpaperbyCharlotteGilman.txt\tdistribute copies of a Project Gutenberg-tm work in a format other than
+  1019	TheYellowWallpaperbyCharlotteGilman.txt\t"Plain Vanilla ASCII" or other format used in the official version
+  1020	TheYellowWallpaperbyCharlotteGilman.txt\tposted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+  1021	TheYellowWallpaperbyCharlotteGilman.txt\tyou must, at no additional cost, fee or expense to the user, provide a
+  1022	TheYellowWallpaperbyCharlotteGilman.txt\tcopy, a means of exporting a copy, or a means of obtaining a copy upon
+  1023	TheYellowWallpaperbyCharlotteGilman.txt\trequest, of the work in its original "Plain Vanilla ASCII" or other
+  1024	TheYellowWallpaperbyCharlotteGilman.txt\tform.  Any alternate format must include the full Project Gutenberg-tm
+  1025	TheYellowWallpaperbyCharlotteGilman.txt\tLicense as specified in paragraph 1.E.1.
+  1026	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1027	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.7.  Do not charge a fee for access to, viewing, displaying,
+  1028	TheYellowWallpaperbyCharlotteGilman.txt\tperforming, copying or distributing any Project Gutenberg-tm works
+  1029	TheYellowWallpaperbyCharlotteGilman.txt\tunless you comply with paragraph 1.E.8 or 1.E.9.
+  1030	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1031	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.8.  You may charge a reasonable fee for copies of or providing
+  1032	TheYellowWallpaperbyCharlotteGilman.txt\taccess to or distributing Project Gutenberg-tm electronic works provided
+  1033	TheYellowWallpaperbyCharlotteGilman.txt\tthat
+  1034	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1035	TheYellowWallpaperbyCharlotteGilman.txt\t- You pay a royalty fee of 20% of the gross profits you derive from
+  1036	TheYellowWallpaperbyCharlotteGilman.txt\t     the use of Project Gutenberg-tm works calculated using the method
+  1037	TheYellowWallpaperbyCharlotteGilman.txt\t     you already use to calculate your applicable taxes.  The fee is
+  1038	TheYellowWallpaperbyCharlotteGilman.txt\t     owed to the owner of the Project Gutenberg-tm trademark, but he
+  1039	TheYellowWallpaperbyCharlotteGilman.txt\t     has agreed to donate royalties under this paragraph to the
+  1040	TheYellowWallpaperbyCharlotteGilman.txt\t     Project Gutenberg Literary Archive Foundation.  Royalty payments
+  1041	TheYellowWallpaperbyCharlotteGilman.txt\t     must be paid within 60 days following each date on which you
+  1042	TheYellowWallpaperbyCharlotteGilman.txt\t     prepare (or are legally required to prepare) your periodic tax
+  1043	TheYellowWallpaperbyCharlotteGilman.txt\t     returns.  Royalty payments should be clearly marked as such and
+  1044	TheYellowWallpaperbyCharlotteGilman.txt\t     sent to the Project Gutenberg Literary Archive Foundation at the
+  1045	TheYellowWallpaperbyCharlotteGilman.txt\t     address specified in Section 4, "Information about donations to
+  1046	TheYellowWallpaperbyCharlotteGilman.txt\t     the Project Gutenberg Literary Archive Foundation."
+  1047	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1048	TheYellowWallpaperbyCharlotteGilman.txt\t- You provide a full refund of any money paid by a user who notifies
+  1049	TheYellowWallpaperbyCharlotteGilman.txt\t     you in writing (or by e-mail) within 30 days of receipt that s/he
+  1050	TheYellowWallpaperbyCharlotteGilman.txt\t     does not agree to the terms of the full Project Gutenberg-tm
+  1051	TheYellowWallpaperbyCharlotteGilman.txt\t     License.  You must require such a user to return or
+  1052	TheYellowWallpaperbyCharlotteGilman.txt\t     destroy all copies of the works possessed in a physical medium
+  1053	TheYellowWallpaperbyCharlotteGilman.txt\t     and discontinue all use of and all access to other copies of
+  1054	TheYellowWallpaperbyCharlotteGilman.txt\t     Project Gutenberg-tm works.
+  1055	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1056	TheYellowWallpaperbyCharlotteGilman.txt\t- You provide, in accordance with paragraph 1.F.3, a full refund of any
+  1057	TheYellowWallpaperbyCharlotteGilman.txt\t     money paid for a work or a replacement copy, if a defect in the
+  1058	TheYellowWallpaperbyCharlotteGilman.txt\t     electronic work is discovered and reported to you within 90 days
+  1059	TheYellowWallpaperbyCharlotteGilman.txt\t     of receipt of the work.
+  1060	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1061	TheYellowWallpaperbyCharlotteGilman.txt\t- You comply with all other terms of this agreement for free
+  1062	TheYellowWallpaperbyCharlotteGilman.txt\t     distribution of Project Gutenberg-tm works.
+  1063	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1064	TheYellowWallpaperbyCharlotteGilman.txt\t1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+  1065	TheYellowWallpaperbyCharlotteGilman.txt\telectronic work or group of works on different terms than are set
+  1066	TheYellowWallpaperbyCharlotteGilman.txt\tforth in this agreement, you must obtain permission in writing from
+  1067	TheYellowWallpaperbyCharlotteGilman.txt\tboth the Project Gutenberg Literary Archive Foundation and Michael
+  1068	TheYellowWallpaperbyCharlotteGilman.txt\tHart, the owner of the Project Gutenberg-tm trademark.  Contact the
+  1069	TheYellowWallpaperbyCharlotteGilman.txt\tFoundation as set forth in Section 3 below.
+  1070	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1071	TheYellowWallpaperbyCharlotteGilman.txt\t1.F.
+  1072	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1073	TheYellowWallpaperbyCharlotteGilman.txt\t1.F.1.  Project Gutenberg volunteers and employees expend considerable
+  1074	TheYellowWallpaperbyCharlotteGilman.txt\teffort to identify, do copyright research on, transcribe and proofread
+  1075	TheYellowWallpaperbyCharlotteGilman.txt\tpublic domain works in creating the Project Gutenberg-tm
+  1076	TheYellowWallpaperbyCharlotteGilman.txt\tcollection.  Despite these efforts, Project Gutenberg-tm electronic
+  1077	TheYellowWallpaperbyCharlotteGilman.txt\tworks, and the medium on which they may be stored, may contain
+  1078	TheYellowWallpaperbyCharlotteGilman.txt\t"Defects," such as, but not limited to, incomplete, inaccurate or
+  1079	TheYellowWallpaperbyCharlotteGilman.txt\tcorrupt data, transcription errors, a copyright or other intellectual
+  1080	TheYellowWallpaperbyCharlotteGilman.txt\tproperty infringement, a defective or damaged disk or other medium, a
+  1081	TheYellowWallpaperbyCharlotteGilman.txt\tcomputer virus, or computer codes that damage or cannot be read by
+  1082	TheYellowWallpaperbyCharlotteGilman.txt\tyour equipment.
+  1083	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1084	TheYellowWallpaperbyCharlotteGilman.txt\t1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+  1085	TheYellowWallpaperbyCharlotteGilman.txt\tof Replacement or Refund" described in paragraph 1.F.3, the Project
+  1086	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg Literary Archive Foundation, the owner of the Project
+  1087	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm trademark, and any other party distributing a Project
+  1088	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm electronic work under this agreement, disclaim all
+  1089	TheYellowWallpaperbyCharlotteGilman.txt\tliability to you for damages, costs and expenses, including legal
+  1090	TheYellowWallpaperbyCharlotteGilman.txt\tfees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+  1091	TheYellowWallpaperbyCharlotteGilman.txt\tLIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+  1092	TheYellowWallpaperbyCharlotteGilman.txt\tPROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+  1093	TheYellowWallpaperbyCharlotteGilman.txt\tTRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+  1094	TheYellowWallpaperbyCharlotteGilman.txt\tLIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+  1095	TheYellowWallpaperbyCharlotteGilman.txt\tINCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+  1096	TheYellowWallpaperbyCharlotteGilman.txt\tDAMAGE.
+  1097	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1098	TheYellowWallpaperbyCharlotteGilman.txt\t1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+  1099	TheYellowWallpaperbyCharlotteGilman.txt\tdefect in this electronic work within 90 days of receiving it, you can
+  1100	TheYellowWallpaperbyCharlotteGilman.txt\treceive a refund of the money (if any) you paid for it by sending a
+  1101	TheYellowWallpaperbyCharlotteGilman.txt\twritten explanation to the person you received the work from.  If you
+  1102	TheYellowWallpaperbyCharlotteGilman.txt\treceived the work on a physical medium, you must return the medium with
+  1103	TheYellowWallpaperbyCharlotteGilman.txt\tyour written explanation.  The person or entity that provided you with
+  1104	TheYellowWallpaperbyCharlotteGilman.txt\tthe defective work may elect to provide a replacement copy in lieu of a
+  1105	TheYellowWallpaperbyCharlotteGilman.txt\trefund.  If you received the work electronically, the person or entity
+  1106	TheYellowWallpaperbyCharlotteGilman.txt\tproviding it to you may choose to give you a second opportunity to
+  1107	TheYellowWallpaperbyCharlotteGilman.txt\treceive the work electronically in lieu of a refund.  If the second copy
+  1108	TheYellowWallpaperbyCharlotteGilman.txt\tis also defective, you may demand a refund in writing without further
+  1109	TheYellowWallpaperbyCharlotteGilman.txt\topportunities to fix the problem.
+  1110	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1111	TheYellowWallpaperbyCharlotteGilman.txt\t1.F.4.  Except for the limited right of replacement or refund set forth
+  1112	TheYellowWallpaperbyCharlotteGilman.txt\tin paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+  1113	TheYellowWallpaperbyCharlotteGilman.txt\tWARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+  1114	TheYellowWallpaperbyCharlotteGilman.txt\tWARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+  1115	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1116	TheYellowWallpaperbyCharlotteGilman.txt\t1.F.5.  Some states do not allow disclaimers of certain implied
+  1117	TheYellowWallpaperbyCharlotteGilman.txt\twarranties or the exclusion or limitation of certain types of damages.
+  1118	TheYellowWallpaperbyCharlotteGilman.txt\tIf any disclaimer or limitation set forth in this agreement violates the
+  1119	TheYellowWallpaperbyCharlotteGilman.txt\tlaw of the state applicable to this agreement, the agreement shall be
+  1120	TheYellowWallpaperbyCharlotteGilman.txt\tinterpreted to make the maximum disclaimer or limitation permitted by
+  1121	TheYellowWallpaperbyCharlotteGilman.txt\tthe applicable state law.  The invalidity or unenforceability of any
+  1122	TheYellowWallpaperbyCharlotteGilman.txt\tprovision of this agreement shall not void the remaining provisions.
+  1123	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1124	TheYellowWallpaperbyCharlotteGilman.txt\t1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+  1125	TheYellowWallpaperbyCharlotteGilman.txt\ttrademark owner, any agent or employee of the Foundation, anyone
+  1126	TheYellowWallpaperbyCharlotteGilman.txt\tproviding copies of Project Gutenberg-tm electronic works in accordance
+  1127	TheYellowWallpaperbyCharlotteGilman.txt\twith this agreement, and any volunteers associated with the production,
+  1128	TheYellowWallpaperbyCharlotteGilman.txt\tpromotion and distribution of Project Gutenberg-tm electronic works,
+  1129	TheYellowWallpaperbyCharlotteGilman.txt\tharmless from all liability, costs and expenses, including legal fees,
+  1130	TheYellowWallpaperbyCharlotteGilman.txt\tthat arise directly or indirectly from any of the following which you do
+  1131	TheYellowWallpaperbyCharlotteGilman.txt\tor cause to occur: (a) distribution of this or any Project Gutenberg-tm
+  1132	TheYellowWallpaperbyCharlotteGilman.txt\twork, (b) alteration, modification, or additions or deletions to any
+  1133	TheYellowWallpaperbyCharlotteGilman.txt\tProject Gutenberg-tm work, and (c) any Defect you cause.
+  1134	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1135	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1136	TheYellowWallpaperbyCharlotteGilman.txt\tSection  2.  Information about the Mission of Project Gutenberg-tm
+  1137	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1138	TheYellowWallpaperbyCharlotteGilman.txt\tProject Gutenberg-tm is synonymous with the free distribution of
+  1139	TheYellowWallpaperbyCharlotteGilman.txt\telectronic works in formats readable by the widest variety of computers
+  1140	TheYellowWallpaperbyCharlotteGilman.txt\tincluding obsolete, old, middle-aged and new computers.  It exists
+  1141	TheYellowWallpaperbyCharlotteGilman.txt\tbecause of the efforts of hundreds of volunteers and donations from
+  1142	TheYellowWallpaperbyCharlotteGilman.txt\tpeople in all walks of life.
+  1143	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1144	TheYellowWallpaperbyCharlotteGilman.txt\tVolunteers and financial support to provide volunteers with the
+  1145	TheYellowWallpaperbyCharlotteGilman.txt\tassistance they need, is critical to reaching Project Gutenberg-tm's
+  1146	TheYellowWallpaperbyCharlotteGilman.txt\tgoals and ensuring that the Project Gutenberg-tm collection will
+  1147	TheYellowWallpaperbyCharlotteGilman.txt\tremain freely available for generations to come.  In 2001, the Project
+  1148	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg Literary Archive Foundation was created to provide a secure
+  1149	TheYellowWallpaperbyCharlotteGilman.txt\tand permanent future for Project Gutenberg-tm and future generations.
+  1150	TheYellowWallpaperbyCharlotteGilman.txt\tTo learn more about the Project Gutenberg Literary Archive Foundation
+  1151	TheYellowWallpaperbyCharlotteGilman.txt\tand how your efforts and donations can help, see Sections 3 and 4
+  1152	TheYellowWallpaperbyCharlotteGilman.txt\tand the Foundation web page at http://www.pglaf.org.
+  1153	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1154	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1155	TheYellowWallpaperbyCharlotteGilman.txt\tSection 3.  Information about the Project Gutenberg Literary Archive
+  1156	TheYellowWallpaperbyCharlotteGilman.txt\tFoundation
+  1157	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1158	TheYellowWallpaperbyCharlotteGilman.txt\tThe Project Gutenberg Literary Archive Foundation is a non profit
+  1159	TheYellowWallpaperbyCharlotteGilman.txt\t501(c)(3) educational corporation organized under the laws of the
+  1160	TheYellowWallpaperbyCharlotteGilman.txt\tstate of Mississippi and granted tax exempt status by the Internal
+  1161	TheYellowWallpaperbyCharlotteGilman.txt\tRevenue Service.  The Foundation's EIN or federal tax identification
+  1162	TheYellowWallpaperbyCharlotteGilman.txt\tnumber is 64-6221541.  Its 501(c)(3) letter is posted at
+  1163	TheYellowWallpaperbyCharlotteGilman.txt\thttp://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+  1164	TheYellowWallpaperbyCharlotteGilman.txt\tLiterary Archive Foundation are tax deductible to the full extent
+  1165	TheYellowWallpaperbyCharlotteGilman.txt\tpermitted by U.S. federal laws and your state's laws.
+  1166	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1167	TheYellowWallpaperbyCharlotteGilman.txt\tThe Foundation's principal office is located at 4557 Melan Dr. S.
+  1168	TheYellowWallpaperbyCharlotteGilman.txt\tFairbanks, AK, 99712., but its volunteers and employees are scattered
+  1169	TheYellowWallpaperbyCharlotteGilman.txt\tthroughout numerous locations.  Its business office is located at
+  1170	TheYellowWallpaperbyCharlotteGilman.txt\t809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+  1171	TheYellowWallpaperbyCharlotteGilman.txt\tbusiness@pglaf.org.  Email contact links and up to date contact
+  1172	TheYellowWallpaperbyCharlotteGilman.txt\tinformation can be found at the Foundation's web site and official
+  1173	TheYellowWallpaperbyCharlotteGilman.txt\tpage at http://pglaf.org
+  1174	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1175	TheYellowWallpaperbyCharlotteGilman.txt\tFor additional contact information:
+  1176	TheYellowWallpaperbyCharlotteGilman.txt\t     Dr. Gregory B. Newby
+  1177	TheYellowWallpaperbyCharlotteGilman.txt\t     Chief Executive and Director
+  1178	TheYellowWallpaperbyCharlotteGilman.txt\t     gbnewby@pglaf.org
+  1179	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1180	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1181	TheYellowWallpaperbyCharlotteGilman.txt\tSection 4.  Information about Donations to the Project Gutenberg
+  1182	TheYellowWallpaperbyCharlotteGilman.txt\tLiterary Archive Foundation
+  1183	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1184	TheYellowWallpaperbyCharlotteGilman.txt\tProject Gutenberg-tm depends upon and cannot survive without wide
+  1185	TheYellowWallpaperbyCharlotteGilman.txt\tspread public support and donations to carry out its mission of
+  1186	TheYellowWallpaperbyCharlotteGilman.txt\tincreasing the number of public domain and licensed works that can be
+  1187	TheYellowWallpaperbyCharlotteGilman.txt\tfreely distributed in machine readable form accessible by the widest
+  1188	TheYellowWallpaperbyCharlotteGilman.txt\tarray of equipment including outdated equipment.  Many small donations
+  1189	TheYellowWallpaperbyCharlotteGilman.txt\t($1 to $5,000) are particularly important to maintaining tax exempt
+  1190	TheYellowWallpaperbyCharlotteGilman.txt\tstatus with the IRS.
+  1191	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1192	TheYellowWallpaperbyCharlotteGilman.txt\tThe Foundation is committed to complying with the laws regulating
+  1193	TheYellowWallpaperbyCharlotteGilman.txt\tcharities and charitable donations in all 50 states of the United
+  1194	TheYellowWallpaperbyCharlotteGilman.txt\tStates.  Compliance requirements are not uniform and it takes a
+  1195	TheYellowWallpaperbyCharlotteGilman.txt\tconsiderable effort, much paperwork and many fees to meet and keep up
+  1196	TheYellowWallpaperbyCharlotteGilman.txt\twith these requirements.  We do not solicit donations in locations
+  1197	TheYellowWallpaperbyCharlotteGilman.txt\twhere we have not received written confirmation of compliance.  To
+  1198	TheYellowWallpaperbyCharlotteGilman.txt\tSEND DONATIONS or determine the status of compliance for any
+  1199	TheYellowWallpaperbyCharlotteGilman.txt\tparticular state visit http://pglaf.org
+  1200	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1201	TheYellowWallpaperbyCharlotteGilman.txt\tWhile we cannot and do not solicit contributions from states where we
+  1202	TheYellowWallpaperbyCharlotteGilman.txt\thave not met the solicitation requirements, we know of no prohibition
+  1203	TheYellowWallpaperbyCharlotteGilman.txt\tagainst accepting unsolicited donations from donors in such states who
+  1204	TheYellowWallpaperbyCharlotteGilman.txt\tapproach us with offers to donate.
+  1205	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1206	TheYellowWallpaperbyCharlotteGilman.txt\tInternational donations are gratefully accepted, but we cannot make
+  1207	TheYellowWallpaperbyCharlotteGilman.txt\tany statements concerning tax treatment of donations received from
+  1208	TheYellowWallpaperbyCharlotteGilman.txt\toutside the United States.  U.S. laws alone swamp our small staff.
+  1209	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1210	TheYellowWallpaperbyCharlotteGilman.txt\tPlease check the Project Gutenberg Web pages for current donation
+  1211	TheYellowWallpaperbyCharlotteGilman.txt\tmethods and addresses.  Donations are accepted in a number of other
+  1212	TheYellowWallpaperbyCharlotteGilman.txt\tways including checks, online payments and credit card donations.
+  1213	TheYellowWallpaperbyCharlotteGilman.txt\tTo donate, please visit: http://pglaf.org/donate
+  1214	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1215	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1216	TheYellowWallpaperbyCharlotteGilman.txt\tSection 5.  General Information About Project Gutenberg-tm electronic
+  1217	TheYellowWallpaperbyCharlotteGilman.txt\tworks.
+  1218	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1219	TheYellowWallpaperbyCharlotteGilman.txt\tProfessor Michael S. Hart is the originator of the Project Gutenberg-tm
+  1220	TheYellowWallpaperbyCharlotteGilman.txt\tconcept of a library of electronic works that could be freely shared
+  1221	TheYellowWallpaperbyCharlotteGilman.txt\twith anyone.  For thirty years, he produced and distributed Project
+  1222	TheYellowWallpaperbyCharlotteGilman.txt\tGutenberg-tm eBooks with only a loose network of volunteer support.
+  1223	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1224	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1225	TheYellowWallpaperbyCharlotteGilman.txt\tProject Gutenberg-tm eBooks are often created from several printed
+  1226	TheYellowWallpaperbyCharlotteGilman.txt\teditions, all of which are confirmed as Public Domain in the U.S.
+  1227	TheYellowWallpaperbyCharlotteGilman.txt\tunless a copyright notice is included.  Thus, we do not necessarily
+  1228	TheYellowWallpaperbyCharlotteGilman.txt\tkeep eBooks in compliance with any particular paper edition.
+  1229	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1230	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1231	TheYellowWallpaperbyCharlotteGilman.txt\tMost people start at our Web site which has the main PG search facility:
+  1232	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1233	TheYellowWallpaperbyCharlotteGilman.txt\t     http://www.gutenberg.org
+  1234	TheYellowWallpaperbyCharlotteGilman.txt\t
+  1235	TheYellowWallpaperbyCharlotteGilman.txt\tThis Web site includes information about Project Gutenberg-tm,
+  1236	TheYellowWallpaperbyCharlotteGilman.txt\tincluding how to make donations to the Project Gutenberg Literary
+  1237	TheYellowWallpaperbyCharlotteGilman.txt\tArchive Foundation, how to help produce our new eBooks, and how to
+  1238	TheYellowWallpaperbyCharlotteGilman.txt\tsubscribe to our email newsletter to hear about new eBooks.
